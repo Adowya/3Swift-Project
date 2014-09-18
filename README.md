@@ -5,8 +5,10 @@ It's my first application write on Swift
 
 ###Preview: 
 
-![](http://adowya.fr/img/swiftfly1.png)
-![](http://adowya.fr/img/swiftfly2.png)
+<p align="center">
+  <img src="http://adowya.fr/img/swiftfly2.png" />
+  <img src="http://adowya.fr/img/swiftfly1.png" />
+</p>
 
 
 Features
