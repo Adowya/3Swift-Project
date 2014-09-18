@@ -1,0 +1,479 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EB61A1251950C49E00CDC31B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB61A1241950C49E00CDC31B /* AppDelegate.swift */; };
+		EB61A1271950C49E00CDC31B /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB61A1261950C49E00CDC31B /* FirstViewController.swift */; };
+		EB61A1291950C49E00CDC31B /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB61A1281950C49E00CDC31B /* SecondViewController.swift */; };
+		EB61A12C1950C49E00CDC31B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB61A12A1950C49E00CDC31B /* Main.storyboard */; };
+		EB61A12E1950C49E00CDC31B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB61A12D1950C49E00CDC31B /* Images.xcassets */; };
+		EB61A13A1950C49E00CDC31B /* FlySupCaenTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB61A1391950C49E00CDC31B /* FlySupCaenTests.swift */; };
+		EB61A1441950C73900CDC31B /* FlyManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB61A1431950C73900CDC31B /* FlyManager.swift */; };
+		EB61A1461950EDAE00CDC31B /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB61A1451950EDAE00CDC31B /* LocationManager.swift */; };
+		EB61A148195182E300CDC31B /* PersistenceHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB61A147195182E300CDC31B /* PersistenceHelper.swift */; };
+		EB61A14D19519B8300CDC31B /* FlyListPersistent.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EB61A14B19519B8300CDC31B /* FlyListPersistent.xcdatamodeld */; };
+		EB61A1551951E78E00CDC31B /* airports.plist in Resources */ = {isa = PBXBuildFile; fileRef = EB61A1541951E78E00CDC31B /* airports.plist */; };
+		EB70A062197403980025198D /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EB70A061197403980025198D /* MapKit.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		EB61A1341950C49E00CDC31B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EB61A1171950C49E00CDC31B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EB61A11E1950C49E00CDC31B;
+			remoteInfo = FlySupCaen;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		EB61A11F1950C49E00CDC31B /* FlySupCaen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlySupCaen.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EB61A1231950C49E00CDC31B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EB61A1241950C49E00CDC31B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		EB61A1261950C49E00CDC31B /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		EB61A1281950C49E00CDC31B /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		EB61A12B1950C49E00CDC31B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		EB61A12D1950C49E00CDC31B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		EB61A1331950C49E00CDC31B /* FlySupCaenTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlySupCaenTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EB61A1381950C49E00CDC31B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EB61A1391950C49E00CDC31B /* FlySupCaenTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlySupCaenTests.swift; sourceTree = "<group>"; };
+		EB61A1431950C73900CDC31B /* FlyManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlyManager.swift; sourceTree = "<group>"; };
+		EB61A1451950EDAE00CDC31B /* LocationManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
+		EB61A147195182E300CDC31B /* PersistenceHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PersistenceHelper.swift; sourceTree = "<group>"; };
+		EB61A14C19519B8300CDC31B /* FlyListPersistent.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FlyListPersistent.xcdatamodel; sourceTree = "<group>"; };
+		EB61A1541951E78E00CDC31B /* airports.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = airports.plist; sourceTree = "<group>"; };
+		EB70A061197403980025198D /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EB61A11C1950C49E00CDC31B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EB70A062197403980025198D /* MapKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EB61A1301950C49E00CDC31B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EB61A1161950C49E00CDC31B = {
+			isa = PBXGroup;
+			children = (
+				EB70A061197403980025198D /* MapKit.framework */,
+				EB61A1211950C49E00CDC31B /* FlySupCaen */,
+				EB61A1361950C49E00CDC31B /* FlySupCaenTests */,
+				EB61A1201950C49E00CDC31B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EB61A1201950C49E00CDC31B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EB61A11F1950C49E00CDC31B /* FlySupCaen.app */,
+				EB61A1331950C49E00CDC31B /* FlySupCaenTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EB61A1211950C49E00CDC31B /* FlySupCaen */ = {
+			isa = PBXGroup;
+			children = (
+				EBBDE7581953340E00D659D3 /* iPad */,
+				EB61A1541951E78E00CDC31B /* airports.plist */,
+				EB61A1241950C49E00CDC31B /* AppDelegate.swift */,
+				EB61A1261950C49E00CDC31B /* FirstViewController.swift */,
+				EB61A1281950C49E00CDC31B /* SecondViewController.swift */,
+				EB61A12A1950C49E00CDC31B /* Main.storyboard */,
+				EB61A12D1950C49E00CDC31B /* Images.xcassets */,
+				EB61A1221950C49E00CDC31B /* Supporting Files */,
+				EB61A1431950C73900CDC31B /* FlyManager.swift */,
+				EB61A1451950EDAE00CDC31B /* LocationManager.swift */,
+				EB61A147195182E300CDC31B /* PersistenceHelper.swift */,
+				EB61A14B19519B8300CDC31B /* FlyListPersistent.xcdatamodeld */,
+			);
+			path = FlySupCaen;
+			sourceTree = "<group>";
+		};
+		EB61A1221950C49E00CDC31B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				EB61A1231950C49E00CDC31B /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		EB61A1361950C49E00CDC31B /* FlySupCaenTests */ = {
+			isa = PBXGroup;
+			children = (
+				EB61A1391950C49E00CDC31B /* FlySupCaenTests.swift */,
+				EB61A1371950C49E00CDC31B /* Supporting Files */,
+			);
+			path = FlySupCaenTests;
+			sourceTree = "<group>";
+		};
+		EB61A1371950C49E00CDC31B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				EB61A1381950C49E00CDC31B /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		EBBDE7581953340E00D659D3 /* iPad */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = iPad;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EB61A11E1950C49E00CDC31B /* FlySupCaen */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EB61A13D1950C49E00CDC31B /* Build configuration list for PBXNativeTarget "FlySupCaen" */;
+			buildPhases = (
+				EB61A11B1950C49E00CDC31B /* Sources */,
+				EB61A11C1950C49E00CDC31B /* Frameworks */,
+				EB61A11D1950C49E00CDC31B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FlySupCaen;
+			productName = FlySupCaen;
+			productReference = EB61A11F1950C49E00CDC31B /* FlySupCaen.app */;
+			productType = "com.apple.product-type.application";
+		};
+		EB61A1321950C49E00CDC31B /* FlySupCaenTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EB61A1401950C49E00CDC31B /* Build configuration list for PBXNativeTarget "FlySupCaenTests" */;
+			buildPhases = (
+				EB61A12F1950C49E00CDC31B /* Sources */,
+				EB61A1301950C49E00CDC31B /* Frameworks */,
+				EB61A1311950C49E00CDC31B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EB61A1351950C49E00CDC31B /* PBXTargetDependency */,
+			);
+			name = FlySupCaenTests;
+			productName = FlySupCaenTests;
+			productReference = EB61A1331950C49E00CDC31B /* FlySupCaenTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EB61A1171950C49E00CDC31B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0600;
+				ORGANIZATIONNAME = Clement;
+				TargetAttributes = {
+					EB61A11E1950C49E00CDC31B = {
+						CreatedOnToolsVersion = 6.0;
+						DevelopmentTeam = SB72TEFEDU;
+						SystemCapabilities = {
+							com.apple.Maps.iOS = {
+								enabled = 1;
+							};
+						};
+					};
+					EB61A1321950C49E00CDC31B = {
+						CreatedOnToolsVersion = 6.0;
+						TestTargetID = EB61A11E1950C49E00CDC31B;
+					};
+				};
+			};
+			buildConfigurationList = EB61A11A1950C49E00CDC31B /* Build configuration list for PBXProject "FlySupCaen" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EB61A1161950C49E00CDC31B;
+			productRefGroup = EB61A1201950C49E00CDC31B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EB61A11E1950C49E00CDC31B /* FlySupCaen */,
+				EB61A1321950C49E00CDC31B /* FlySupCaenTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EB61A11D1950C49E00CDC31B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EB61A1551951E78E00CDC31B /* airports.plist in Resources */,
+				EB61A12C1950C49E00CDC31B /* Main.storyboard in Resources */,
+				EB61A12E1950C49E00CDC31B /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EB61A1311950C49E00CDC31B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EB61A11B1950C49E00CDC31B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EB61A14D19519B8300CDC31B /* FlyListPersistent.xcdatamodeld in Sources */,
+				EB61A1291950C49E00CDC31B /* SecondViewController.swift in Sources */,
+				EB61A148195182E300CDC31B /* PersistenceHelper.swift in Sources */,
+				EB61A1441950C73900CDC31B /* FlyManager.swift in Sources */,
+				EB61A1461950EDAE00CDC31B /* LocationManager.swift in Sources */,
+				EB61A1251950C49E00CDC31B /* AppDelegate.swift in Sources */,
+				EB61A1271950C49E00CDC31B /* FirstViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EB61A12F1950C49E00CDC31B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EB61A13A1950C49E00CDC31B /* FlySupCaenTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		EB61A1351950C49E00CDC31B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EB61A11E1950C49E00CDC31B /* FlySupCaen */;
+			targetProxy = EB61A1341950C49E00CDC31B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		EB61A12A1950C49E00CDC31B /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EB61A12B1950C49E00CDC31B /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		EB61A13B1950C49E00CDC31B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				METAL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		EB61A13C1950C49E00CDC31B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				METAL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		EB61A13E1950C49E00CDC31B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEPLOYMENT_LOCATION = YES;
+				INFOPLIST_FILE = FlySupCaen/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		EB61A13F1950C49E00CDC31B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEPLOYMENT_LOCATION = YES;
+				INFOPLIST_FILE = FlySupCaen/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		EB61A1411950C49E00CDC31B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/FlySupCaen.app/FlySupCaen";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = FlySupCaenTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				METAL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+			};
+			name = Debug;
+		};
+		EB61A1421950C49E00CDC31B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/FlySupCaen.app/FlySupCaen";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = FlySupCaenTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				METAL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EB61A11A1950C49E00CDC31B /* Build configuration list for PBXProject "FlySupCaen" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EB61A13B1950C49E00CDC31B /* Debug */,
+				EB61A13C1950C49E00CDC31B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EB61A13D1950C49E00CDC31B /* Build configuration list for PBXNativeTarget "FlySupCaen" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EB61A13E1950C49E00CDC31B /* Debug */,
+				EB61A13F1950C49E00CDC31B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EB61A1401950C49E00CDC31B /* Build configuration list for PBXNativeTarget "FlySupCaenTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EB61A1411950C49E00CDC31B /* Debug */,
+				EB61A1421950C49E00CDC31B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		EB61A14B19519B8300CDC31B /* FlyListPersistent.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				EB61A14C19519B8300CDC31B /* FlyListPersistent.xcdatamodel */,
+			);
+			currentVersion = EB61A14C19519B8300CDC31B /* FlyListPersistent.xcdatamodel */;
+			path = FlyListPersistent.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = EB61A1171950C49E00CDC31B /* Project object */;
+}

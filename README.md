@@ -5,7 +5,8 @@ It's my first application write on Swift
 
 ###Preview: 
 
-![Preview of Swift Fly](http://adowya.fr/img/swiftfly1.jpg "Preview of Swift Fly")
+![](http://adowya.fr/img/swiftfly1.png)
+![](http://adowya.fr/img/swiftfly2.png)
 
 
 Features

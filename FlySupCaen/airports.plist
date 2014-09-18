@@ -1,0 +1,4020 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LFAB</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Dieppe - Saint-Aubin</string>
+		<key>Lat</key>
+		<real>49.8825</real>
+		<key>Lng</key>
+		<real>1.08527777778</real>
+	</dict>
+	<key>LFAC</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Calais - Dunkerque</string>
+		<key>Lat</key>
+		<real>50.9608333333</real>
+		<key>Lng</key>
+		<real>1.95138888889</real>
+	</dict>
+	<key>LFAD</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Compiegne - Margny</string>
+		<key>Lat</key>
+		<real>49.4344444444</real>
+		<key>Lng</key>
+		<real>2.80611111111</real>
+	</dict>
+	<key>LFAE</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome d&apos;Eu - Mers - Le Treport</string>
+		<key>Lat</key>
+		<real>50.0691666667</real>
+		<key>Lng</key>
+		<real>1.42666666667</real>
+	</dict>
+	<key>LFAF</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Laon - Chambry</string>
+		<key>Lat</key>
+		<real>49.5958333333</real>
+		<key>Lng</key>
+		<real>3.63166666667</real>
+	</dict>
+	<key>LFAG</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Peronne - Saint-Quentin</string>
+		<key>Lat</key>
+		<real>49.8688888889</real>
+		<key>Lng</key>
+		<real>3.02972222222</real>
+	</dict>
+	<key>LFAI</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Nangis Les Loges</string>
+		<key>Lat</key>
+		<real>48.5958333333</real>
+		<key>Lng</key>
+		<real>3.01416666667</real>
+	</dict>
+	<key>LFAJ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Argentan</string>
+		<key>Lat</key>
+		<real>48.7105555556</real>
+		<key>Lng</key>
+		<real>0.00388888888889</real>
+	</dict>
+	<key>LFAK</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Dunkerque - Les Moeres</string>
+		<key>Lat</key>
+		<real>51.0405555556</real>
+		<key>Lng</key>
+		<real>2.55027777778</real>
+	</dict>
+	<key>LFAL</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de La Fleche - Thoree-les-Pins</string>
+		<key>Lat</key>
+		<real>47.6941666667</real>
+		<key>Lng</key>
+		<real>0.00333333333333</real>
+	</dict>
+	<key>LFAM</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Berck sur Mer</string>
+		<key>Lat</key>
+		<real>50.4230555556</real>
+		<key>Lng</key>
+		<real>1.59194444444</real>
+	</dict>
+	<key>LFAO</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Bagnoles-de-l&apos;Orne - Couterne</string>
+		<key>Lat</key>
+		<real>48.5455555556</real>
+		<key>Lng</key>
+		<real>0.383611111111</real>
+	</dict>
+	<key>LFAP</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Rethel - Perthes</string>
+		<key>Lat</key>
+		<real>49.4819444444</real>
+		<key>Lng</key>
+		<real>4.36472222222</real>
+	</dict>
+	<key>LFAQ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome d&apos;Albert - Bray</string>
+		<key>Lat</key>
+		<real>49.9725</real>
+		<key>Lng</key>
+		<real>2.69138888889</real>
+	</dict>
+	<key>LFAR</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Montdidier</string>
+		<key>Lat</key>
+		<real>49.6730555556</real>
+		<key>Lng</key>
+		<real>2.56916666667</real>
+	</dict>
+	<key>LFAS</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Falaise Mont d&apos;Eraines</string>
+		<key>Lat</key>
+		<real>48.9272222222</real>
+		<key>Lng</key>
+		<real>0.144722222222</real>
+	</dict>
+	<key>LFAT</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport du Touquet Cote d&apos;Opale</string>
+		<key>Lat</key>
+		<real>50.5147222222</real>
+		<key>Lng</key>
+		<real>1.6275</real>
+	</dict>
+	<key>LFAU</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Vauville</string>
+		<key>Lat</key>
+		<real>49.6241666667</real>
+		<key>Lng</key>
+		<real>1.82916666667</real>
+	</dict>
+	<key>LFAV</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Valenciennes - Denain</string>
+		<key>Lat</key>
+		<real>50.3247222222</real>
+		<key>Lng</key>
+		<real>3.46555555556</real>
+	</dict>
+	<key>LFAW</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Villerupt</string>
+		<key>Lat</key>
+		<real>49.4113888889</real>
+		<key>Lng</key>
+		<real>5.89055555556</real>
+	</dict>
+	<key>LFAX</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Mortagne au Perche</string>
+		<key>Lat</key>
+		<real>48.5402777778</real>
+		<key>Lng</key>
+		<real>0.533888888889</real>
+	</dict>
+	<key>LFAY</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Amiens - Glisy</string>
+		<key>Lat</key>
+		<real>49.8730555556</real>
+		<key>Lng</key>
+		<real>2.38694444444</real>
+	</dict>
+	<key>LFBA</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport Agen - La Garenne</string>
+		<key>Lat</key>
+		<real>44.1747222222</real>
+		<key>Lng</key>
+		<real>0.590555555556</real>
+	</dict>
+	<key>LFBC</key>
+	<dict>
+		<key>Name</key>
+		<string> Base aerienne de Cazaux</string>
+		<key>Lat</key>
+		<real>44.5347222222</real>
+		<key>Lng</key>
+		<real>1.13138888889</real>
+	</dict>
+	<key>LFBD</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Bordeaux - Merignac</string>
+		<key>Lat</key>
+		<real>44.8286111111</real>
+		<key>Lng</key>
+		<real>0.7152777777779999</real>
+	</dict>
+	<key>LFBE</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport Bergerac - Roumaniere</string>
+		<key>Lat</key>
+		<real>44.8244444444</real>
+		<key>Lng</key>
+		<real>0.520555555556</real>
+	</dict>
+	<key>LFBF</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Francazal - Toulouse</string>
+		<key>Lat</key>
+		<real>43.5488888889</real>
+		<key>Lng</key>
+		<real>1.35722222222</real>
+	</dict>
+	<key>LFBG</key>
+	<dict>
+		<key>Name</key>
+		<string> Base aerienne 709 Cognac - Chateaubernard</string>
+		<key>Lat</key>
+		<real>45.6583333333</real>
+		<key>Lng</key>
+		<real>0.3175</real>
+	</dict>
+	<key>LFBH</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de La Rochelle - Ile de Re</string>
+		<key>Lat</key>
+		<real>46.1791666667</real>
+		<key>Lng</key>
+		<real>1.19527777778</real>
+	</dict>
+	<key>LFBI</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Poitiers - Biard</string>
+		<key>Lat</key>
+		<real>46.5875</real>
+		<key>Lng</key>
+		<real>0.306666666667</real>
+	</dict>
+	<key>LFBJ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Saint-Junien Maryse Bastie</string>
+		<key>Lat</key>
+		<real>45.9033333333</real>
+		<key>Lng</key>
+		<real>0.92</real>
+	</dict>
+	<key>LFBK</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Montlucon Gueret</string>
+		<key>Lat</key>
+		<real>46.2261111111</real>
+		<key>Lng</key>
+		<real>2.36277777778</real>
+	</dict>
+	<key>LFBL</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Limoges Bellegarde</string>
+		<key>Lat</key>
+		<real>45.8608333333</real>
+		<key>Lng</key>
+		<real>1.18027777778</real>
+	</dict>
+	<key>LFBM</key>
+	<dict>
+		<key>Name</key>
+		<string> Base aerienne 118 Mont de Marsan</string>
+		<key>Lat</key>
+		<real>43.9125</real>
+		<key>Lng</key>
+		<real>0.508611111111</real>
+	</dict>
+	<key>LFBN</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Niort Souche</string>
+		<key>Lat</key>
+		<real>46.3133333333</real>
+		<key>Lng</key>
+		<real>0.394444444444</real>
+	</dict>
+	<key>LFBO</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport Toulouse Blagnac</string>
+		<key>Lat</key>
+		<real>43.635</real>
+		<key>Lng</key>
+		<real>1.36777777778</real>
+	</dict>
+	<key>LFBP</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport Pau Pyrenees</string>
+		<key>Lat</key>
+		<real>43.38</real>
+		<key>Lng</key>
+		<real>0.418611111111</real>
+	</dict>
+	<key>LFBR</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Muret - Lherm</string>
+		<key>Lat</key>
+		<real>43.4491666667</real>
+		<key>Lng</key>
+		<real>1.26361111111</real>
+	</dict>
+	<key>LFBS</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Biscarrosse - Parentis</string>
+		<key>Lat</key>
+		<real>44.3694444444</real>
+		<key>Lng</key>
+		<real>1.13055555556</real>
+	</dict>
+	<key>LFBT</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Tarbes Lourdes Pyrenees</string>
+		<key>Lat</key>
+		<real>43.1855555556</real>
+		<key>Lng</key>
+		<real>0.00277777777778</real>
+	</dict>
+	<key>LFBU</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport international Angouleme - Cognac</string>
+		<key>Lat</key>
+		<real>45.7294444444</real>
+		<key>Lng</key>
+		<real>0.219166666667</real>
+	</dict>
+	<key>LFBX</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport Perigueux Bassillac</string>
+		<key>Lat</key>
+		<real>45.1975</real>
+		<key>Lng</key>
+		<real>0.814166666667</real>
+	</dict>
+	<key>LFBY</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Dax - Seyresse</string>
+		<key>Lat</key>
+		<real>43.6891666667</real>
+		<key>Lng</key>
+		<real>1.06888888889</real>
+	</dict>
+	<key>LFBZ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Biarritz Bayonne Anglet (BBA)</string>
+		<key>Lat</key>
+		<real>43.4683333333</real>
+		<key>Lng</key>
+		<real>1.53111111111</real>
+	</dict>
+	<key>LFCA</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Chatellerault Targe</string>
+		<key>Lat</key>
+		<real>46.7813888889</real>
+		<key>Lng</key>
+		<real>0.551944444444</real>
+	</dict>
+	<key>LFCB</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Bagneres de Luchon</string>
+		<key>Lat</key>
+		<real>42.8</real>
+		<key>Lng</key>
+		<real>0.6</real>
+	</dict>
+	<key>LFCC</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Cahors - Lalbenque</string>
+		<key>Lat</key>
+		<real>44.3505555556</real>
+		<key>Lng</key>
+		<real>1.47861111111</real>
+	</dict>
+	<key>LFCD</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Andernos les Bains</string>
+		<key>Lat</key>
+		<real>44.7561111111</real>
+		<key>Lng</key>
+		<real>1.06333333333</real>
+	</dict>
+	<key>LFCE</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Gueret - Saint-Laurent</string>
+		<key>Lat</key>
+		<real>46.1755555556</real>
+		<key>Lng</key>
+		<real>1.95305555556</real>
+	</dict>
+	<key>LFCF</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Figeac - Livernon</string>
+		<key>Lat</key>
+		<real>44.6733333333</real>
+		<key>Lng</key>
+		<real>1.78916666667</real>
+	</dict>
+	<key>LFCG</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Saint-Girons - Antichan</string>
+		<key>Lat</key>
+		<real>43.0088888889</real>
+		<key>Lng</key>
+		<real>1.10444444444</real>
+	</dict>
+	<key>LFCH</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Arcachon - La Teste-de-Buch</string>
+		<key>Lat</key>
+		<real>44.5986111111</real>
+		<key>Lng</key>
+		<real>1.11472222222</real>
+	</dict>
+	<key>LFCI</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome d&apos;Albi - Le Sequestre</string>
+		<key>Lat</key>
+		<real>43.9133333333</real>
+		<key>Lng</key>
+		<real>2.11666666667</real>
+	</dict>
+	<key>LFCJ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Jonzac - Neulles</string>
+		<key>Lat</key>
+		<real>45.4841666667</real>
+		<key>Lng</key>
+		<real>0.421388888889</real>
+	</dict>
+	<key>LFCK</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Castres - Mazamet</string>
+		<key>Lat</key>
+		<real>43.555</real>
+		<key>Lng</key>
+		<real>2.29055555556</real>
+	</dict>
+	<key>LFCL</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Toulouse - Lasbordes</string>
+		<key>Lat</key>
+		<real>43.5888888889</real>
+		<key>Lng</key>
+		<real>1.49972222222</real>
+	</dict>
+	<key>LFCM</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Millau Larzac</string>
+		<key>Lat</key>
+		<real>43.9891666667</real>
+		<key>Lng</key>
+		<real>3.18333333333</real>
+	</dict>
+	<key>LFCN</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Nogaro</string>
+		<key>Lat</key>
+		<real>43.7697222222</real>
+		<key>Lng</key>
+		<real>0.0327777777778</real>
+	</dict>
+	<key>LFCO</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Oloron - Herrere</string>
+		<key>Lat</key>
+		<real>43.1647222222</real>
+		<key>Lng</key>
+		<real>0.560277777778</real>
+	</dict>
+	<key>LFCP</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Pons - Avy</string>
+		<key>Lat</key>
+		<real>45.57</real>
+		<key>Lng</key>
+		<real>0.515</real>
+	</dict>
+	<key>LFCQ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Graulhet - Montdragon</string>
+		<key>Lat</key>
+		<real>43.77</real>
+		<key>Lng</key>
+		<real>2.00888888889</real>
+	</dict>
+	<key>LFCR</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Rodez - Marcillac</string>
+		<key>Lat</key>
+		<real>44.4075</real>
+		<key>Lng</key>
+		<real>2.48333333333</real>
+	</dict>
+	<key>LFCS</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Bordeaux - Leognan - Saucats</string>
+		<key>Lat</key>
+		<real>44.7002777778</real>
+		<key>Lng</key>
+		<real>0.595555555556</real>
+	</dict>
+	<key>LFCT</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Thouars</string>
+		<key>Lat</key>
+		<real>46.9619444444</real>
+		<key>Lng</key>
+		<real>0.152777777778</real>
+	</dict>
+	<key>LFCU</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome d&apos;Ussel - Thalamy</string>
+		<key>Lat</key>
+		<real>45.5369444444</real>
+		<key>Lng</key>
+		<real>2.42555555556</real>
+	</dict>
+	<key>LFCV</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Villefranche de Rouergue</string>
+		<key>Lat</key>
+		<real>44.37</real>
+		<key>Lng</key>
+		<real>2.02805555556</real>
+	</dict>
+	<key>LFCW</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Villeneuve sur Lot</string>
+		<key>Lat</key>
+		<real>44.4002777778</real>
+		<key>Lng</key>
+		<real>0.761111111111</real>
+	</dict>
+	<key>LFCX</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Castelsarrasin - Moissac</string>
+		<key>Lat</key>
+		<real>44.0869444444</real>
+		<key>Lng</key>
+		<real>1.12833333333</real>
+	</dict>
+	<key>LFCY</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Royan - Medis</string>
+		<key>Lat</key>
+		<real>45.6311111111</real>
+		<key>Lng</key>
+		<real>0.975555555556</real>
+	</dict>
+	<key>LFCZ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Mimizan</string>
+		<key>Lat</key>
+		<real>44.1469444444</real>
+		<key>Lng</key>
+		<real>1.16333333333</real>
+	</dict>
+	<key>LFDA</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Aire sur l&apos;Adour</string>
+		<key>Lat</key>
+		<real>43.7094444444</real>
+		<key>Lng</key>
+		<real>0.245277777778</real>
+	</dict>
+	<key>LFDB</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Montauban</string>
+		<key>Lat</key>
+		<real>44.0275</real>
+		<key>Lng</key>
+		<real>1.37833333333</real>
+	</dict>
+	<key>LFDC</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Montendre - Marcillac</string>
+		<key>Lat</key>
+		<real>45.2744444444</real>
+		<key>Lng</key>
+		<real>0.452222222222</real>
+	</dict>
+	<key>LFDE</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;egletons</string>
+		<key>Lat</key>
+		<real>45.4213888889</real>
+		<key>Lng</key>
+		<real>2.06888888889</real>
+	</dict>
+	<key>LFDF</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Sainte-Foy la Grande</string>
+		<key>Lat</key>
+		<real>44.8536111111</real>
+		<key>Lng</key>
+		<real>0.176666666667</real>
+	</dict>
+	<key>LFDG</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Gaillac - Lisle -sur-Tarn</string>
+		<key>Lat</key>
+		<real>43.8838888889</real>
+		<key>Lng</key>
+		<real>1.87555555556</real>
+	</dict>
+	<key>LFDH</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Auch Lamothe</string>
+		<key>Lat</key>
+		<real>43.6869444444</real>
+		<key>Lng</key>
+		<real>0.6</real>
+	</dict>
+	<key>LFDI</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Libourne - Artigues-de-Lussac</string>
+		<key>Lat</key>
+		<real>44.985</real>
+		<key>Lng</key>
+		<real>0.133611111111</real>
+	</dict>
+	<key>LFDJ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Pamiers - Les Pujols</string>
+		<key>Lat</key>
+		<real>43.0905555556</real>
+		<key>Lng</key>
+		<real>1.69583333333</real>
+	</dict>
+	<key>LFDK</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Soulac sur Mer</string>
+		<key>Lat</key>
+		<real>45.495</real>
+		<key>Lng</key>
+		<real>1.08222222222</real>
+	</dict>
+	<key>LFDL</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Loudun</string>
+		<key>Lat</key>
+		<real>47.0372222222</real>
+		<key>Lng</key>
+		<real>0.101388888889</real>
+	</dict>
+	<key>LFDM</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Marmande - Virazeil</string>
+		<key>Lat</key>
+		<real>44.5011111111</real>
+		<key>Lng</key>
+		<real>0.1975</real>
+	</dict>
+	<key>LFDN</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Rochefort - Saint-Agnant</string>
+		<key>Lat</key>
+		<real>45.8894444444</real>
+		<key>Lng</key>
+		<real>0.9825</real>
+	</dict>
+	<key>LFDP</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Saint-Pierre d&apos;Oleron</string>
+		<key>Lat</key>
+		<real>45.9591666667</real>
+		<key>Lng</key>
+		<real>1.31611111111</real>
+	</dict>
+	<key>LFDQ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Castelnau Magnoac</string>
+		<key>Lat</key>
+		<real>43.2794444444</real>
+		<key>Lng</key>
+		<real>0.521666666667</real>
+	</dict>
+	<key>LFDR</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de La Reole - Floudes</string>
+		<key>Lat</key>
+		<real>44.5680555556</real>
+		<key>Lng</key>
+		<real>0.0561111111111</real>
+	</dict>
+	<key>LFDS</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Sarlat - Domme</string>
+		<key>Lat</key>
+		<real>44.7933333333</real>
+		<key>Lng</key>
+		<real>1.24472222222</real>
+	</dict>
+	<key>LFDT</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Tarbes - Laloubere</string>
+		<key>Lat</key>
+		<real>43.2161111111</real>
+		<key>Lng</key>
+		<real>0.0786111111111</real>
+	</dict>
+	<key>LFDU</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Lesparre - Saint-Laurent de Medoc</string>
+		<key>Lat</key>
+		<real>45.1977777778</real>
+		<key>Lng</key>
+		<real>0.882222222222</real>
+	</dict>
+	<key>LFDV</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Couhe Verac</string>
+		<key>Lat</key>
+		<real>46.2727777778</real>
+		<key>Lng</key>
+		<real>0.190555555556</real>
+	</dict>
+	<key>LFDW</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Chauvigny</string>
+		<key>Lat</key>
+		<real>46.5836111111</real>
+		<key>Lng</key>
+		<real>0.6425</real>
+	</dict>
+	<key>LFDX</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Fumel - Montayral</string>
+		<key>Lat</key>
+		<real>44.4636111111</real>
+		<key>Lng</key>
+		<real>1.00777777778</real>
+	</dict>
+	<key>LFDY</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Bordeaux - Yvrac</string>
+		<key>Lat</key>
+		<real>44.8772222222</real>
+		<key>Lng</key>
+		<real>0.479166666667</real>
+	</dict>
+	<key>LFDZ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport Condat sur Vezere</string>
+		<key>Lat</key>
+		<real>0</real>
+		<key>Lng</key>
+		<real>0</real>
+	</dict>
+	<key>LFEA</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Belle Ile</string>
+		<key>Lat</key>
+		<real>47.3266666667</real>
+		<key>Lng</key>
+		<real>3.18416666667</real>
+	</dict>
+	<key>LFEB</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Dinan - Trelivan</string>
+		<key>Lat</key>
+		<real>48.4444444444</real>
+		<key>Lng</key>
+		<real>2.10138888889</real>
+	</dict>
+	<key>LFEC</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Ouessant</string>
+		<key>Lat</key>
+		<real>48.4641666667</real>
+		<key>Lng</key>
+		<real>5.06222222222</real>
+	</dict>
+	<key>LFED</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Pontivy</string>
+		<key>Lat</key>
+		<real>48.0577777778</real>
+		<key>Lng</key>
+		<real>2.9225</real>
+	</dict>
+	<key>LFEF</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Amboise - Dierre</string>
+		<key>Lat</key>
+		<real>47.3413888889</real>
+		<key>Lng</key>
+		<real>0.9425</real>
+	</dict>
+	<key>LFEG</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Argenton sur Creuse</string>
+		<key>Lat</key>
+		<real>46.5969444444</real>
+		<key>Lng</key>
+		<real>1.6025</real>
+	</dict>
+	<key>LFEH</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome d&apos;Aubigny sur Nere</string>
+		<key>Lat</key>
+		<real>47.4805555556</real>
+		<key>Lng</key>
+		<real>2.39416666667</real>
+	</dict>
+	<key>LFEI</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Briare Chatillon</string>
+		<key>Lat</key>
+		<real>47.6144444444</real>
+		<key>Lng</key>
+		<real>2.78194444444</real>
+	</dict>
+	<key>LFEJ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Chateauroux - Villers</string>
+		<key>Lat</key>
+		<real>46.8419444444</real>
+		<key>Lng</key>
+		<real>1.62111111111</real>
+	</dict>
+	<key>LFEK</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Issoudun Le Fay</string>
+		<key>Lat</key>
+		<real>46.8886111111</real>
+		<key>Lng</key>
+		<real>2.04138888889</real>
+	</dict>
+	<key>LFEL</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport du Blanc</string>
+		<key>Lat</key>
+		<real>46.6208333333</real>
+		<key>Lng</key>
+		<real>1.0875</real>
+	</dict>
+	<key>LFEM</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Montargis - Vimory</string>
+		<key>Lat</key>
+		<real>47.9605555556</real>
+		<key>Lng</key>
+		<real>2.68583333333</real>
+	</dict>
+	<key>LFEN</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Tours - Sorigny</string>
+		<key>Lat</key>
+		<real>47.2675</real>
+		<key>Lng</key>
+		<real>0.701111111111</real>
+	</dict>
+	<key>LFEP</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Pouilly - Maconge</string>
+		<key>Lat</key>
+		<real>47.2213888889</real>
+		<key>Lng</key>
+		<real>4.56111111111</real>
+	</dict>
+	<key>LFEQ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Quiberon</string>
+		<key>Lat</key>
+		<real>47.4822222222</real>
+		<key>Lng</key>
+		<real>3.1</real>
+	</dict>
+	<key>LFER</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Redon - Bains-sur-Oust</string>
+		<key>Lat</key>
+		<real>47.6994444444</real>
+		<key>Lng</key>
+		<real>2.03666666667</real>
+	</dict>
+	<key>LFES</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Guiscriff - Scaer</string>
+		<key>Lat</key>
+		<real>48.0547222222</real>
+		<key>Lng</key>
+		<real>3.66277777778</real>
+	</dict>
+	<key>LFET</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Til Chatel</string>
+		<key>Lat</key>
+		<real>47.5475</real>
+		<key>Lng</key>
+		<real>5.21194444444</real>
+	</dict>
+	<key>LFEU</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Bar-le-Duc - Les Hauts-de-Chee</string>
+		<key>Lat</key>
+		<real>48.8683333333</real>
+		<key>Lng</key>
+		<real>5.18583333333</real>
+	</dict>
+	<key>LFEV</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Gray - Saint-Adrien</string>
+		<key>Lat</key>
+		<real>47.4333333333</real>
+		<key>Lng</key>
+		<real>5.62277777778</real>
+	</dict>
+	<key>LFEW</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Saulieu - Liernais</string>
+		<key>Lat</key>
+		<real>47.2394444444</real>
+		<key>Lng</key>
+		<real>4.26583333333</real>
+	</dict>
+	<key>LFEX</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Nancy - Azelot</string>
+		<key>Lat</key>
+		<real>48.5927777778</real>
+		<key>Lng</key>
+		<real>6.24111111111</real>
+	</dict>
+	<key>LFEY</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de l&apos;Ile d&apos;Yeu</string>
+		<key>Lat</key>
+		<real>46.7186111111</real>
+		<key>Lng</key>
+		<real>2.39111111111</real>
+	</dict>
+	<key>LFEZ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Nancy - Malzeville</string>
+		<key>Lat</key>
+		<real>48.7244444444</real>
+		<key>Lng</key>
+		<real>6.20777777778</real>
+	</dict>
+	<key>LFFB</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Buno - Bonnevaux</string>
+		<key>Lat</key>
+		<real>48.3511111111</real>
+		<key>Lng</key>
+		<real>2.42555555556</real>
+	</dict>
+	<key>LFFC</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Mantes - Cherence</string>
+		<key>Lat</key>
+		<real>49.0788888889</real>
+		<key>Lng</key>
+		<real>1.68972222222</real>
+	</dict>
+	<key>LFFD</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Saint-Andre de l&apos;Eure</string>
+		<key>Lat</key>
+		<real>48.8986111111</real>
+		<key>Lng</key>
+		<real>1.25055555556</real>
+	</dict>
+	<key>LFFE</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome d&apos;Enghien - Moisselles</string>
+		<key>Lat</key>
+		<real>49.0463888889</real>
+		<key>Lng</key>
+		<real>2.35305555556</real>
+	</dict>
+	<key>LFFG</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de La Ferte-Gaucher</string>
+		<key>Lat</key>
+		<real>48.7558333333</real>
+		<key>Lng</key>
+		<real>3.27666666667</real>
+	</dict>
+	<key>LFFH</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Chateau-Thierry - Belleau</string>
+		<key>Lat</key>
+		<real>49.0672222222</real>
+		<key>Lng</key>
+		<real>3.35694444444</real>
+	</dict>
+	<key>LFFI</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Ancenis</string>
+		<key>Lat</key>
+		<real>47.4080555556</real>
+		<key>Lng</key>
+		<real>1.1775</real>
+	</dict>
+	<key>LFFJ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Joinville - Mussey</string>
+		<key>Lat</key>
+		<real>48.3861111111</real>
+		<key>Lng</key>
+		<real>5.145</real>
+	</dict>
+	<key>LFFK</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Fontenay le Comte</string>
+		<key>Lat</key>
+		<real>46.4413888889</real>
+		<key>Lng</key>
+		<real>0.792777777778</real>
+	</dict>
+	<key>LFFL</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Bailleau - Armenonville</string>
+		<key>Lat</key>
+		<real>48.5158333333</real>
+		<key>Lng</key>
+		<real>1.64</real>
+	</dict>
+	<key>LFFM</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Lamotte Beuvron</string>
+		<key>Lat</key>
+		<real>0</real>
+		<key>Lng</key>
+		<real>0</real>
+	</dict>
+	<key>LFFN</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Brienne le Chateau</string>
+		<key>Lat</key>
+		<real>48.4308333333</real>
+		<key>Lng</key>
+		<real>4.4825</real>
+	</dict>
+	<key>LFFP</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Pithiviers</string>
+		<key>Lat</key>
+		<real>48.1572222222</real>
+		<key>Lng</key>
+		<real>2.1925</real>
+	</dict>
+	<key>LFFQ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de La Ferte Alais</string>
+		<key>Lat</key>
+		<real>48.4977777778</real>
+		<key>Lng</key>
+		<real>2.34333333333</real>
+	</dict>
+	<key>LFFR</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Bar sur Seine</string>
+		<key>Lat</key>
+		<real>48.0669444444</real>
+		<key>Lng</key>
+		<real>4.41361111111</real>
+	</dict>
+	<key>LFFT</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Neufchateau Rouceux</string>
+		<key>Lat</key>
+		<real>48.3616666667</real>
+		<key>Lng</key>
+		<real>5.72027777778</real>
+	</dict>
+	<key>LFFU</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Chateauneuf sur Cher</string>
+		<key>Lat</key>
+		<real>46.8711111111</real>
+		<key>Lng</key>
+		<real>2.37694444444</real>
+	</dict>
+	<key>LFFV</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Vierzon - Mereau</string>
+		<key>Lat</key>
+		<real>47.1947222222</real>
+		<key>Lng</key>
+		<real>2.06666666667</real>
+	</dict>
+	<key>LFFW</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Montaigu - Saint-Georges</string>
+		<key>Lat</key>
+		<real>46.9330555556</real>
+		<key>Lng</key>
+		<real>1.32555555556</real>
+	</dict>
+	<key>LFFX</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Tournus - Cuisery</string>
+		<key>Lat</key>
+		<real>46.5627777778</real>
+		<key>Lng</key>
+		<real>4.97666666667</real>
+	</dict>
+	<key>LFFY</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome d&apos;etrepagny</string>
+		<key>Lat</key>
+		<real>49.3061111111</real>
+		<key>Lng</key>
+		<real>1.63861111111</real>
+	</dict>
+	<key>LFFZ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Sezanne - Saint-Remy</string>
+		<key>Lat</key>
+		<real>48.7105555556</real>
+		<key>Lng</key>
+		<real>3.76416666667</real>
+	</dict>
+	<key>LFGA</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Colmar - Houssen</string>
+		<key>Lat</key>
+		<real>48.1102777778</real>
+		<key>Lng</key>
+		<real>7.35916666667</real>
+	</dict>
+	<key>LFGB</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Mulhouse - Habsheim</string>
+		<key>Lat</key>
+		<real>47.7380555556</real>
+		<key>Lng</key>
+		<real>7.43222222222</real>
+	</dict>
+	<key>LFGC</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Strasbourg - Neuhof</string>
+		<key>Lat</key>
+		<real>48.5544444444</real>
+		<key>Lng</key>
+		<real>7.77805555556</real>
+	</dict>
+	<key>LFGD</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome d&apos;Arbois</string>
+		<key>Lat</key>
+		<real>46.8533333333</real>
+		<key>Lng</key>
+		<real>5.76</real>
+	</dict>
+	<key>LFGE</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Avallon</string>
+		<key>Lat</key>
+		<real>47.5030555556</real>
+		<key>Lng</key>
+		<real>3.89944444444</real>
+	</dict>
+	<key>LFGF</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Beaune Challanges</string>
+		<key>Lat</key>
+		<real>47.0111111111</real>
+		<key>Lng</key>
+		<real>4.8975</real>
+	</dict>
+	<key>LFGG</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Belfort - Chaux</string>
+		<key>Lat</key>
+		<real>47.7022222222</real>
+		<key>Lng</key>
+		<real>6.8325</real>
+	</dict>
+	<key>LFGH</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Cosne sur Loire</string>
+		<key>Lat</key>
+		<real>47.3605555556</real>
+		<key>Lng</key>
+		<real>2.91944444444</real>
+	</dict>
+	<key>LFGI</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Dijon - Darois</string>
+		<key>Lat</key>
+		<real>47.3869444444</real>
+		<key>Lng</key>
+		<real>4.94805555556</real>
+	</dict>
+	<key>LFGJ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Dole - Tavaux</string>
+		<key>Lat</key>
+		<real>47.0427777778</real>
+		<key>Lng</key>
+		<real>5.435</real>
+	</dict>
+	<key>LFGK</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Joigny</string>
+		<key>Lat</key>
+		<real>47.995</real>
+		<key>Lng</key>
+		<real>3.39194444444</real>
+	</dict>
+	<key>LFGL</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Lons-le-Saunier - Courlaoux</string>
+		<key>Lat</key>
+		<real>46.6761111111</real>
+		<key>Lng</key>
+		<real>5.47111111111</real>
+	</dict>
+	<key>LFGM</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Montceau-les-Mines - Pouilloux</string>
+		<key>Lat</key>
+		<real>46.6041666667</real>
+		<key>Lng</key>
+		<real>4.33388888889</real>
+	</dict>
+	<key>LFGN</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Paray le Monial</string>
+		<key>Lat</key>
+		<real>46.4677777778</real>
+		<key>Lng</key>
+		<real>4.135</real>
+	</dict>
+	<key>LFGO</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Pont sur Yonne</string>
+		<key>Lat</key>
+		<real>48.2905555556</real>
+		<key>Lng</key>
+		<real>3.25083333333</real>
+	</dict>
+	<key>LFGP</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Saint-Florentin - Cheu</string>
+		<key>Lat</key>
+		<real>47.9822222222</real>
+		<key>Lng</key>
+		<real>3.77833333333</real>
+	</dict>
+	<key>LFGQ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Semur en Auxois</string>
+		<key>Lat</key>
+		<real>47.4819444444</real>
+		<key>Lng</key>
+		<real>4.34416666667</real>
+	</dict>
+	<key>LFGR</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Doncourt les Conflans</string>
+		<key>Lat</key>
+		<real>49.1527777778</real>
+		<key>Lng</key>
+		<real>5.93277777778</real>
+	</dict>
+	<key>LFGS</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Longuyon - Villette</string>
+		<key>Lat</key>
+		<real>49.4844444444</real>
+		<key>Lng</key>
+		<real>5.57277777778</real>
+	</dict>
+	<key>LFGT</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Sarrebourg - Buhl</string>
+		<key>Lat</key>
+		<real>48.7188888889</real>
+		<key>Lng</key>
+		<real>7.07944444444</real>
+	</dict>
+	<key>LFGU</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Sarreguemines Neunkirch</string>
+		<key>Lat</key>
+		<real>49.1280555556</real>
+		<key>Lng</key>
+		<real>7.10833333333</real>
+	</dict>
+	<key>LFGV</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Thionville - Yutz</string>
+		<key>Lat</key>
+		<real>0</real>
+		<key>Lng</key>
+		<real>0</real>
+	</dict>
+	<key>LFGW</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Verdun Le Rozelier</string>
+		<key>Lat</key>
+		<real>49.1222222222</real>
+		<key>Lng</key>
+		<real>5.47083333333</real>
+	</dict>
+	<key>LFGX</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Champagnole - Crotenay</string>
+		<key>Lat</key>
+		<real>46.7644444444</real>
+		<key>Lng</key>
+		<real>5.82083333333</real>
+	</dict>
+	<key>LFGY</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Saint-Die - Remomeix</string>
+		<key>Lat</key>
+		<real>48.2672222222</real>
+		<key>Lng</key>
+		<real>7.00861111111</real>
+	</dict>
+	<key>LFGZ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Nuits Saint-Georges</string>
+		<key>Lat</key>
+		<real>47.1430555556</real>
+		<key>Lng</key>
+		<real>4.96916666667</real>
+	</dict>
+	<key>LFHA</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Issoire - Le Broc</string>
+		<key>Lat</key>
+		<real>45.515</real>
+		<key>Lng</key>
+		<real>3.2675</real>
+	</dict>
+	<key>LFHC</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Perouges - Meximieux</string>
+		<key>Lat</key>
+		<real>45.8697222222</real>
+		<key>Lng</key>
+		<real>5.18722222222</real>
+	</dict>
+	<key>LFHD</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Pierrelatte</string>
+		<key>Lat</key>
+		<real>44.3988888889</real>
+		<key>Lng</key>
+		<real>4.71805555556</real>
+	</dict>
+	<key>LFHE</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Romans - Saint-Paul</string>
+		<key>Lat</key>
+		<real>45.0661111111</real>
+		<key>Lng</key>
+		<real>5.10333333333</real>
+	</dict>
+	<key>LFHF</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Ruoms</string>
+		<key>Lat</key>
+		<real>44.4452777778</real>
+		<key>Lng</key>
+		<real>4.33388888889</real>
+	</dict>
+	<key>LFHG</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Saint-Chamond - L&apos;Horme</string>
+		<key>Lat</key>
+		<real>45.4930555556</real>
+		<key>Lng</key>
+		<real>4.53555555556</real>
+	</dict>
+	<key>LFHH</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Vienne Reventin</string>
+		<key>Lat</key>
+		<real>45.4641666667</real>
+		<key>Lng</key>
+		<real>4.82944444444</real>
+	</dict>
+	<key>LFHI</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Morestel</string>
+		<key>Lat</key>
+		<real>45.6877777778</real>
+		<key>Lng</key>
+		<real>5.45361111111</real>
+	</dict>
+	<key>LFHJ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Lyon - Corbas</string>
+		<key>Lat</key>
+		<real>45.6541666667</real>
+		<key>Lng</key>
+		<real>4.91361111111</real>
+	</dict>
+	<key>LFHL</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Langogne - Lesperon</string>
+		<key>Lat</key>
+		<real>44.7063888889</real>
+		<key>Lng</key>
+		<real>3.88833333333</real>
+	</dict>
+	<key>LFHM</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Megeve</string>
+		<key>Lat</key>
+		<real>45.8208333333</real>
+		<key>Lng</key>
+		<real>6.65222222222</real>
+	</dict>
+	<key>LFHN</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Bellegarde Vouvray</string>
+		<key>Lat</key>
+		<real>46.1241666667</real>
+		<key>Lng</key>
+		<real>5.80611111111</real>
+	</dict>
+	<key>LFHO</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Aubenas Ardeche meridionale</string>
+		<key>Lat</key>
+		<real>44.5394444444</real>
+		<key>Lng</key>
+		<real>4.37166666667</real>
+	</dict>
+	<key>LFHP</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport du Puy - Loudes</string>
+		<key>Lat</key>
+		<real>45.0805555556</real>
+		<key>Lng</key>
+		<real>3.76472222222</real>
+	</dict>
+	<key>LFHQ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Saint-Flour - Coltines</string>
+		<key>Lat</key>
+		<real>45.075</real>
+		<key>Lng</key>
+		<real>2.9925</real>
+	</dict>
+	<key>LFHR</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Brioude - Beaumont</string>
+		<key>Lat</key>
+		<real>45.325</real>
+		<key>Lng</key>
+		<real>3.35916666667</real>
+	</dict>
+	<key>LFHS</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Bourg - Ceyzeriat</string>
+		<key>Lat</key>
+		<real>46.2055555556</real>
+		<key>Lng</key>
+		<real>5.29166666667</real>
+	</dict>
+	<key>LFHT</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Ambert Le Poyet</string>
+		<key>Lat</key>
+		<real>45.5169444444</real>
+		<key>Lng</key>
+		<real>3.74638888889</real>
+	</dict>
+	<key>LFHU</key>
+	<dict>
+		<key>Name</key>
+		<string> Altiport de l&apos;Alpe d&apos;Huez</string>
+		<key>Lat</key>
+		<real>45.0883333333</real>
+		<key>Lng</key>
+		<real>6.08472222222</real>
+	</dict>
+	<key>LFHV</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Villefranche - Tarare</string>
+		<key>Lat</key>
+		<real>45.92</real>
+		<key>Lng</key>
+		<real>4.635</real>
+	</dict>
+	<key>LFHW</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Belleville - Villie-Morgon</string>
+		<key>Lat</key>
+		<real>46.1427777778</real>
+		<key>Lng</key>
+		<real>4.71472222222</real>
+	</dict>
+	<key>LFHX</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Lapalisse - Perigny</string>
+		<key>Lat</key>
+		<real>46.2538888889</real>
+		<key>Lng</key>
+		<real>3.58861111111</real>
+	</dict>
+	<key>LFHY</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Moulins - Montbeugny</string>
+		<key>Lat</key>
+		<real>46.5344444444</real>
+		<key>Lng</key>
+		<real>3.42166666667</real>
+	</dict>
+	<key>LFHZ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Sallanches Mont Blanc</string>
+		<key>Lat</key>
+		<real>45.9538888889</real>
+		<key>Lng</key>
+		<real>6.63916666667</real>
+	</dict>
+	<key>LFIB</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Belves - Saint-Pardoux</string>
+		<key>Lat</key>
+		<real>44.7825</real>
+		<key>Lng</key>
+		<real>0.958888888889</real>
+	</dict>
+	<key>LFID</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Condom - Valence-sur-Baise</string>
+		<key>Lat</key>
+		<real>43.9102777778</real>
+		<key>Lng</key>
+		<real>0.387222222222</real>
+	</dict>
+	<key>LFIF</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Saint-Affrique - Belmont</string>
+		<key>Lat</key>
+		<real>43.8241666667</real>
+		<key>Lng</key>
+		<real>2.74861111111</real>
+	</dict>
+	<key>LFIG</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Cassagnes - Begonhes</string>
+		<key>Lat</key>
+		<real>44.1794444444</real>
+		<key>Lng</key>
+		<real>2.51861111111</real>
+	</dict>
+	<key>LFIH</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Chalais</string>
+		<key>Lat</key>
+		<real>45.2680555556</real>
+		<key>Lng</key>
+		<real>0.0169444444444</real>
+	</dict>
+	<key>LFIK</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Riberac - Saint-Aulaye</string>
+		<key>Lat</key>
+		<real>45.2402777778</real>
+		<key>Lng</key>
+		<real>0.266944444444</real>
+	</dict>
+	<key>LFIL</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Rion des Landes</string>
+		<key>Lat</key>
+		<real>43.9158333333</real>
+		<key>Lng</key>
+		<real>0.949166666667</real>
+	</dict>
+	<key>LFIM</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Saint-Gaudens - Montrejeau</string>
+		<key>Lat</key>
+		<real>43.1086111111</real>
+		<key>Lng</key>
+		<real>0.620277777778</real>
+	</dict>
+	<key>LFIP</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Peyresourde - Balestas</string>
+		<key>Lat</key>
+		<real>42.7969444444</real>
+		<key>Lng</key>
+		<real>0.435555555556</real>
+	</dict>
+	<key>LFIR</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Revel - Montgey</string>
+		<key>Lat</key>
+		<real>43.4813888889</real>
+		<key>Lng</key>
+		<real>1.98</real>
+	</dict>
+	<key>LFIT</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Toulouse - Bourg Saint-Bernard</string>
+		<key>Lat</key>
+		<real>43.6122222222</real>
+		<key>Lng</key>
+		<real>1.72527777778</real>
+	</dict>
+	<key>LFIV</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Vendays - Montalivet</string>
+		<key>Lat</key>
+		<real>45.3805555556</real>
+		<key>Lng</key>
+		<real>1.11583333333</real>
+	</dict>
+	<key>LFIX</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome d&apos;Itxassou</string>
+		<key>Lat</key>
+		<real>43.3375</real>
+		<key>Lng</key>
+		<real>1.42222222222</real>
+	</dict>
+	<key>LFIY</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Saint-Jean d&apos;Angely - Saint-Denis du Pin</string>
+		<key>Lat</key>
+		<real>45.9663888889</real>
+		<key>Lng</key>
+		<real>0.525277777778</real>
+	</dict>
+	<key>LFJA</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Chaumont - Semoutiers</string>
+		<key>Lat</key>
+		<real>48.0916666667</real>
+		<key>Lng</key>
+		<real>5.05</real>
+	</dict>
+	<key>LFJB</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Mauleon</string>
+		<key>Lat</key>
+		<real>46.9038888889</real>
+		<key>Lng</key>
+		<real>0.696388888889</real>
+	</dict>
+	<key>LFJC</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Clamecy</string>
+		<key>Lat</key>
+		<real>47.4383333333</real>
+		<key>Lng</key>
+		<real>3.50861111111</real>
+	</dict>
+	<key>LFJD</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Corlier</string>
+		<key>Lat</key>
+		<real>46.0397222222</real>
+		<key>Lng</key>
+		<real>5.49694444444</real>
+	</dict>
+	<key>LFJE</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de La Motte Chalancon</string>
+		<key>Lat</key>
+		<real>44.4997222222</real>
+		<key>Lng</key>
+		<real>5.40333333333</real>
+	</dict>
+	<key>LFJF</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome d&apos;Aubenasson</string>
+		<key>Lat</key>
+		<real>44.6963888889</real>
+		<key>Lng</key>
+		<real>5.15472222222</real>
+	</dict>
+	<key>LFJH</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Cazeres - Palaminy</string>
+		<key>Lat</key>
+		<real>43.2022222222</real>
+		<key>Lng</key>
+		<real>1.05111111111</real>
+	</dict>
+	<key>LFJI</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Marennes</string>
+		<key>Lat</key>
+		<real>45.8238888889</real>
+		<key>Lng</key>
+		<real>1.07722222222</real>
+	</dict>
+	<key>LFJL</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport Metz Nancy Lorraine</string>
+		<key>Lat</key>
+		<real>48.9783333333</real>
+		<key>Lng</key>
+		<real>6.24666666667</real>
+	</dict>
+	<key>LFJR</key>
+	<dict>
+		<key>Name</key>
+		<string> Angers Loire Aeroport</string>
+		<key>Lat</key>
+		<real>47.5602777778</real>
+		<key>Lng</key>
+		<real>0.312222222222</real>
+	</dict>
+	<key>LFJS</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Soissons - Courmelles</string>
+		<key>Lat</key>
+		<real>49.3458333333</real>
+		<key>Lng</key>
+		<real>3.28416666667</real>
+	</dict>
+	<key>LFJT</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Tours - Le Louroux</string>
+		<key>Lat</key>
+		<real>47.15</real>
+		<key>Lng</key>
+		<real>0.712777777778</real>
+	</dict>
+	<key>LFJU</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Lurcy - Levis</string>
+		<key>Lat</key>
+		<real>46.7127777778</real>
+		<key>Lng</key>
+		<real>2.94611111111</real>
+	</dict>
+	<key>LFJY</key>
+	<dict>
+		<key>Name</key>
+		<string> Chambley-Bussieres Air Base</string>
+		<key>Lat</key>
+		<real>49.0255555556</real>
+		<key>Lng</key>
+		<real>5.87611111111</real>
+	</dict>
+	<key>LFKA</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome d&apos;Albertville</string>
+		<key>Lat</key>
+		<real>45.6272222222</real>
+		<key>Lng</key>
+		<real>6.32972222222</real>
+	</dict>
+	<key>LFKB</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Bastia Poretta</string>
+		<key>Lat</key>
+		<real>42.55</real>
+		<key>Lng</key>
+		<real>9.48472222222</real>
+	</dict>
+	<key>LFKC</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Calvi Sainte-Catherine</string>
+		<key>Lat</key>
+		<real>42.5202777778</real>
+		<key>Lng</key>
+		<real>8.793055555560001</real>
+	</dict>
+	<key>LFKD</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Sollieres - Sardieres</string>
+		<key>Lat</key>
+		<real>45.2563888889</real>
+		<key>Lng</key>
+		<real>6.80138888889</real>
+	</dict>
+	<key>LFKE</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Saint-Jean en Royans</string>
+		<key>Lat</key>
+		<real>45.0277777778</real>
+		<key>Lng</key>
+		<real>5.31</real>
+	</dict>
+	<key>LFKF</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Figari Sud Corse</string>
+		<key>Lat</key>
+		<real>41.5022222222</real>
+		<key>Lng</key>
+		<real>9.09666666667</real>
+	</dict>
+	<key>LFKG</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Ghisonaccia Alzitone</string>
+		<key>Lat</key>
+		<real>42.055</real>
+		<key>Lng</key>
+		<real>9.40194444444</real>
+	</dict>
+	<key>LFKH</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Saint-Jean d&apos;Avelanne</string>
+		<key>Lat</key>
+		<real>45.5166666667</real>
+		<key>Lng</key>
+		<real>5.68055555556</real>
+	</dict>
+	<key>LFKJ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Ajaccio Napoleon Bonaparte</string>
+		<key>Lat</key>
+		<real>41.9238888889</real>
+		<key>Lng</key>
+		<real>8.8025</real>
+	</dict>
+	<key>LFKL</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Lyon - Brindas</string>
+		<key>Lat</key>
+		<real>45.7116666667</real>
+		<key>Lng</key>
+		<real>4.69777777778</real>
+	</dict>
+	<key>LFKM</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Saint-Galmier</string>
+		<key>Lat</key>
+		<real>45.6072222222</real>
+		<key>Lng</key>
+		<real>4.30583333333</real>
+	</dict>
+	<key>LFKO</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Propriano</string>
+		<key>Lat</key>
+		<real>41.6613888889</real>
+		<key>Lng</key>
+		<real>8.895</real>
+	</dict>
+	<key>LFKP</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de La Tour-du-Pin - Cessieu</string>
+		<key>Lat</key>
+		<real>45.5572222222</real>
+		<key>Lng</key>
+		<real>5.38472222222</real>
+	</dict>
+	<key>LFKR</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Saint-Remy de Maurienne</string>
+		<key>Lat</key>
+		<real>0</real>
+		<key>Lng</key>
+		<real>0</real>
+	</dict>
+	<key>LFKS</key>
+	<dict>
+		<key>Name</key>
+		<string> Base aerienne 126 de Solenzara</string>
+		<key>Lat</key>
+		<real>41.9261111111</real>
+		<key>Lng</key>
+		<real>9.40527777778</real>
+	</dict>
+	<key>LFKT</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Corte</string>
+		<key>Lat</key>
+		<real>42.2908333333</real>
+		<key>Lng</key>
+		<real>9.193888888889999</real>
+	</dict>
+	<key>LFKX</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Meribel</string>
+		<key>Lat</key>
+		<real>45.4069444444</real>
+		<key>Lng</key>
+		<real>6.58055555556</real>
+	</dict>
+	<key>LFKY</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Belley - Peyrieu</string>
+		<key>Lat</key>
+		<real>45.695</real>
+		<key>Lng</key>
+		<real>5.69277777778</real>
+	</dict>
+	<key>LFLA</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Auxerre - Branches</string>
+		<key>Lat</key>
+		<real>47.8463888889</real>
+		<key>Lng</key>
+		<real>3.49666666667</real>
+	</dict>
+	<key>LFLB</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Chambery - Savoie</string>
+		<key>Lat</key>
+		<real>45.6391666667</real>
+		<key>Lng</key>
+		<real>5.88</real>
+	</dict>
+	<key>LFLC</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Clermont-Ferrand Auvergne</string>
+		<key>Lat</key>
+		<real>45.7858333333</real>
+		<key>Lng</key>
+		<real>3.1625</real>
+	</dict>
+	<key>LFLD</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Bourges</string>
+		<key>Lat</key>
+		<real>47.0644444444</real>
+		<key>Lng</key>
+		<real>2.37888888889</real>
+	</dict>
+	<key>LFLE</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Chambery - Challes-les-Eaux</string>
+		<key>Lat</key>
+		<real>45.5613888889</real>
+		<key>Lng</key>
+		<real>5.97694444444</real>
+	</dict>
+	<key>LFLG</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Grenoble - Le Versoud</string>
+		<key>Lat</key>
+		<real>45.2191666667</real>
+		<key>Lng</key>
+		<real>5.84972222222</real>
+	</dict>
+	<key>LFLH</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Chalon - Champforgeuil</string>
+		<key>Lat</key>
+		<real>46.8283333333</real>
+		<key>Lng</key>
+		<real>4.81694444444</real>
+	</dict>
+	<key>LFLI</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome d&apos;Annemasse</string>
+		<key>Lat</key>
+		<real>46.1919444444</real>
+		<key>Lng</key>
+		<real>6.26944444444</real>
+	</dict>
+	<key>LFLJ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Courchevel</string>
+		<key>Lat</key>
+		<real>45.3966666667</real>
+		<key>Lng</key>
+		<real>6.63361111111</real>
+	</dict>
+	<key>LFLK</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome d&apos;Oyonnax - Arbent</string>
+		<key>Lat</key>
+		<real>46.2791666667</real>
+		<key>Lng</key>
+		<real>5.6675</real>
+	</dict>
+	<key>LFLL</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport Lyon Saint-Exupery</string>
+		<key>Lat</key>
+		<real>45.7255555556</real>
+		<key>Lng</key>
+		<real>5.08111111111</real>
+	</dict>
+	<key>LFLM</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Macon - Charnay</string>
+		<key>Lat</key>
+		<real>46.2958333333</real>
+		<key>Lng</key>
+		<real>4.79583333333</real>
+	</dict>
+	<key>LFLN</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Saint-Yan</string>
+		<key>Lat</key>
+		<real>46.4063888889</real>
+		<key>Lng</key>
+		<real>4.02111111111</real>
+	</dict>
+	<key>LFLO</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Roanne - Renaison</string>
+		<key>Lat</key>
+		<real>46.0527777778</real>
+		<key>Lng</key>
+		<real>3.99972222222</real>
+	</dict>
+	<key>LFLP</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Annecy Haute-Savoie Mont Blanc</string>
+		<key>Lat</key>
+		<real>45.9308333333</real>
+		<key>Lng</key>
+		<real>6.10638888889</real>
+	</dict>
+	<key>LFLQ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Montelimar - Ancone</string>
+		<key>Lat</key>
+		<real>44.5836111111</real>
+		<key>Lng</key>
+		<real>4.74055555556</real>
+	</dict>
+	<key>LFLR</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Saint-Rambert d&apos;Albon</string>
+		<key>Lat</key>
+		<real>45.2561111111</real>
+		<key>Lng</key>
+		<real>4.82583333333</real>
+	</dict>
+	<key>LFLS</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport International de Grenoble Isere</string>
+		<key>Lat</key>
+		<real>45.3630555556</real>
+		<key>Lng</key>
+		<real>5.33277777778</real>
+	</dict>
+	<key>LFLT</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Montlucon - Domerat</string>
+		<key>Lat</key>
+		<real>46.3536111111</real>
+		<key>Lng</key>
+		<real>2.57222222222</real>
+	</dict>
+	<key>LFLU</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Valence - Chabeuil</string>
+		<key>Lat</key>
+		<real>44.9155555556</real>
+		<key>Lng</key>
+		<real>4.96861111111</real>
+	</dict>
+	<key>LFLV</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Vichy - Charmeil</string>
+		<key>Lat</key>
+		<real>46.1716666667</real>
+		<key>Lng</key>
+		<real>3.40416666667</real>
+	</dict>
+	<key>LFLW</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Aurillac</string>
+		<key>Lat</key>
+		<real>44.8975</real>
+		<key>Lng</key>
+		<real>2.41666666667</real>
+	</dict>
+	<key>LFLX</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Chateauroux - Deols</string>
+		<key>Lat</key>
+		<real>46.8602777778</real>
+		<key>Lng</key>
+		<real>1.72111111111</real>
+	</dict>
+	<key>LFLY</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Lyon Bron</string>
+		<key>Lat</key>
+		<real>45.7294444444</real>
+		<key>Lng</key>
+		<real>4.93888888889</real>
+	</dict>
+	<key>LFLZ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Feurs - Chambeon</string>
+		<key>Lat</key>
+		<real>45.7036111111</real>
+		<key>Lng</key>
+		<real>4.20111111111</real>
+	</dict>
+	<key>LFMA</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Aix Les Milles</string>
+		<key>Lat</key>
+		<real>43.5016666667</real>
+		<key>Lng</key>
+		<real>5.37083333333</real>
+	</dict>
+	<key>LFMC</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport du Luc - Le Cannet</string>
+		<key>Lat</key>
+		<real>43.3847222222</real>
+		<key>Lng</key>
+		<real>6.38694444444</real>
+	</dict>
+	<key>LFMD</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Cannes - Mandelieu</string>
+		<key>Lat</key>
+		<real>43.5475</real>
+		<key>Lng</key>
+		<real>6.95527777778</real>
+	</dict>
+	<key>LFME</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de NImes Courbessac</string>
+		<key>Lat</key>
+		<real>43.8538888889</real>
+		<key>Lng</key>
+		<real>4.41361111111</real>
+	</dict>
+	<key>LFMF</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Fayence</string>
+		<key>Lat</key>
+		<real>43.6061111111</real>
+		<key>Lng</key>
+		<real>6.70277777778</real>
+	</dict>
+	<key>LFMG</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Montagne Noire</string>
+		<key>Lat</key>
+		<real>43.4075</real>
+		<key>Lng</key>
+		<real>1.99027777778</real>
+	</dict>
+	<key>LFMH</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Saint-etienne - Boutheon</string>
+		<key>Lat</key>
+		<real>45.5341666667</real>
+		<key>Lng</key>
+		<real>4.29722222222</real>
+	</dict>
+	<key>LFMI</key>
+	<dict>
+		<key>Name</key>
+		<string> Base aerienne 125 d&apos;Istres - Le Tube</string>
+		<key>Lat</key>
+		<real>43.5225</real>
+		<key>Lng</key>
+		<real>4.92416666667</real>
+	</dict>
+	<key>LFMK</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Carcassonne Salvaza</string>
+		<key>Lat</key>
+		<real>43.2158333333</real>
+		<key>Lng</key>
+		<real>2.30861111111</real>
+	</dict>
+	<key>LFML</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Marseille Provence</string>
+		<key>Lat</key>
+		<real>43.4366666667</real>
+		<key>Lng</key>
+		<real>5.215</real>
+	</dict>
+	<key>LFMN</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport Nice Cote d&apos;Azur</string>
+		<key>Lat</key>
+		<real>43.6652777778</real>
+		<key>Lng</key>
+		<real>7.215</real>
+	</dict>
+	<key>LFMO</key>
+	<dict>
+		<key>Name</key>
+		<string> Base aerienne 115 d&apos;Orange Caritat</string>
+		<key>Lat</key>
+		<real>44.14</real>
+		<key>Lng</key>
+		<real>4.86527777778</real>
+	</dict>
+	<key>LFMP</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Perpignan - Rivesaltes</string>
+		<key>Lat</key>
+		<real>42.7408333333</real>
+		<key>Lng</key>
+		<real>2.86972222222</real>
+	</dict>
+	<key>LFMQ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport du Castellet</string>
+		<key>Lat</key>
+		<real>43.2533333333</real>
+		<key>Lng</key>
+		<real>5.78722222222</real>
+	</dict>
+	<key>LFMR</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Barcelonnette - Saint-Pons</string>
+		<key>Lat</key>
+		<real>44.3883333333</real>
+		<key>Lng</key>
+		<real>6.61027777778</real>
+	</dict>
+	<key>LFMS</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome d&apos;Ales Cevennes</string>
+		<key>Lat</key>
+		<real>44.0736111111</real>
+		<key>Lng</key>
+		<real>4.14388888889</real>
+	</dict>
+	<key>LFMT</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport Montpellier Mediterranee</string>
+		<key>Lat</key>
+		<real>43.5833333333</real>
+		<key>Lng</key>
+		<real>3.96138888889</real>
+	</dict>
+	<key>LFMU</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Beziers - Cap d&apos;Agde en Languedoc</string>
+		<key>Lat</key>
+		<real>43.3233333333</real>
+		<key>Lng</key>
+		<real>3.35333333333</real>
+	</dict>
+	<key>LFMV</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Avignon - Caumont</string>
+		<key>Lat</key>
+		<real>43.9066666667</real>
+		<key>Lng</key>
+		<real>4.90194444444</real>
+	</dict>
+	<key>LFMW</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Castelnaudary - Villeneuve</string>
+		<key>Lat</key>
+		<real>43.3122222222</real>
+		<key>Lng</key>
+		<real>1.92111111111</real>
+	</dict>
+	<key>LFMX</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Chateau Arnoux Saint-Auban</string>
+		<key>Lat</key>
+		<real>44.06</real>
+		<key>Lng</key>
+		<real>5.99138888889</real>
+	</dict>
+	<key>LFMY</key>
+	<dict>
+		<key>Name</key>
+		<string> Base aerienne 701 de Salon de Provence</string>
+		<key>Lat</key>
+		<real>43.6027777778</real>
+		<key>Lng</key>
+		<real>5.10805555556</real>
+	</dict>
+	<key>LFMZ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Lezignan Corbieres</string>
+		<key>Lat</key>
+		<real>43.1758333333</real>
+		<key>Lng</key>
+		<real>2.73361111111</real>
+	</dict>
+	<key>LFNA</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Gap - Tallard</string>
+		<key>Lat</key>
+		<real>44.455</real>
+		<key>Lng</key>
+		<real>6.03777777778</real>
+	</dict>
+	<key>LFNB</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Mende - Brenoux</string>
+		<key>Lat</key>
+		<real>44.5041666667</real>
+		<key>Lng</key>
+		<real>3.5275</real>
+	</dict>
+	<key>LFNC</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Mont-Dauphin - Saint-Crepin</string>
+		<key>Lat</key>
+		<real>44.7016666667</real>
+		<key>Lng</key>
+		<real>6.60027777778</real>
+	</dict>
+	<key>LFND</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Pont - Saint - Esprit</string>
+		<key>Lat</key>
+		<real>0</real>
+		<key>Lng</key>
+		<real>0</real>
+	</dict>
+	<key>LFNE</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Salon - Eyguieres</string>
+		<key>Lat</key>
+		<real>43.6583333333</real>
+		<key>Lng</key>
+		<real>5.01361111111</real>
+	</dict>
+	<key>LFNF</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Vinon</string>
+		<key>Lat</key>
+		<real>43.7377777778</real>
+		<key>Lng</key>
+		<real>5.78416666667</real>
+	</dict>
+	<key>LFNG</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Montpellier - Candillargues</string>
+		<key>Lat</key>
+		<real>43.6102777778</real>
+		<key>Lng</key>
+		<real>4.07027777778</real>
+	</dict>
+	<key>LFNH</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Carpentras</string>
+		<key>Lat</key>
+		<real>44.0233333333</real>
+		<key>Lng</key>
+		<real>5.09083333333</real>
+	</dict>
+	<key>LFNJ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome d&apos;Aspres sur Buech</string>
+		<key>Lat</key>
+		<real>44.5188888889</real>
+		<key>Lng</key>
+		<real>5.7375</real>
+	</dict>
+	<key>LFNL</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Saint-Martin de Londres</string>
+		<key>Lat</key>
+		<real>43.8008333333</real>
+		<key>Lng</key>
+		<real>3.7825</real>
+	</dict>
+	<key>LFNN</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Narbonne</string>
+		<key>Lat</key>
+		<real>43.1941666667</real>
+		<key>Lng</key>
+		<real>3.05166666667</real>
+	</dict>
+	<key>LFNO</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Florac - Sainte-Enimie</string>
+		<key>Lat</key>
+		<real>44.2863888889</real>
+		<key>Lng</key>
+		<real>3.46666666667</real>
+	</dict>
+	<key>LFNP</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Pezenas - Nizas</string>
+		<key>Lat</key>
+		<real>43.5058333333</real>
+		<key>Lng</key>
+		<real>3.41361111111</real>
+	</dict>
+	<key>LFNQ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Mont-Louis La Quillane</string>
+		<key>Lat</key>
+		<real>42.5436111111</real>
+		<key>Lng</key>
+		<real>2.12</real>
+	</dict>
+	<key>LFNR</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Berre - La Fare</string>
+		<key>Lat</key>
+		<real>43.5377777778</real>
+		<key>Lng</key>
+		<real>5.17833333333</real>
+	</dict>
+	<key>LFNS</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Sisteron Theze</string>
+		<key>Lat</key>
+		<real>44.2875</real>
+		<key>Lng</key>
+		<real>5.93027777778</real>
+	</dict>
+	<key>LFNT</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome d&apos;Avignon - Pujaut</string>
+		<key>Lat</key>
+		<real>43.9969444444</real>
+		<key>Lng</key>
+		<real>4.75555555556</real>
+	</dict>
+	<key>LFNU</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome d&apos;Uzes</string>
+		<key>Lat</key>
+		<real>44.0847222222</real>
+		<key>Lng</key>
+		<real>4.39527777778</real>
+	</dict>
+	<key>LFNV</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Valreas - Visan</string>
+		<key>Lat</key>
+		<real>44.3369444444</real>
+		<key>Lng</key>
+		<real>4.90805555556</real>
+	</dict>
+	<key>LFNW</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Puivert</string>
+		<key>Lat</key>
+		<real>42.9113888889</real>
+		<key>Lng</key>
+		<real>2.05611111111</real>
+	</dict>
+	<key>LFNX</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Bedarieux - La Tour-sur-Orb</string>
+		<key>Lat</key>
+		<real>43.6408333333</real>
+		<key>Lng</key>
+		<real>3.14555555556</real>
+	</dict>
+	<key>LFNZ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome du Mazet de Romanin</string>
+		<key>Lat</key>
+		<real>43.7688888889</real>
+		<key>Lng</key>
+		<real>4.89361111111</real>
+	</dict>
+	<key>LFOA</key>
+	<dict>
+		<key>Name</key>
+		<string> Base aerienne 702 d&apos;Avord</string>
+		<key>Lat</key>
+		<real>47.0566666667</real>
+		<key>Lng</key>
+		<real>2.63861111111</real>
+	</dict>
+	<key>LFOB</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Beauvais Tille</string>
+		<key>Lat</key>
+		<real>49.4544444444</real>
+		<key>Lng</key>
+		<real>2.11277777778</real>
+	</dict>
+	<key>LFOC</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Chateaudun</string>
+		<key>Lat</key>
+		<real>48.0577777778</real>
+		<key>Lng</key>
+		<real>1.37944444444</real>
+	</dict>
+	<key>LFOD</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Saumur Saint-Florent</string>
+		<key>Lat</key>
+		<real>47.2566666667</real>
+		<key>Lng</key>
+		<real>0.113611111111</real>
+	</dict>
+	<key>LFOE</key>
+	<dict>
+		<key>Name</key>
+		<string> Base aerienne 105 d&apos;evreux - Fauville</string>
+		<key>Lat</key>
+		<real>49.0286111111</real>
+		<key>Lng</key>
+		<real>1.22</real>
+	</dict>
+	<key>LFOF</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Alencon - Valframbert</string>
+		<key>Lat</key>
+		<real>48.4475</real>
+		<key>Lng</key>
+		<real>0.109166666667</real>
+	</dict>
+	<key>LFOG</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Flers - Saint-Paul</string>
+		<key>Lat</key>
+		<real>48.7525</real>
+		<key>Lng</key>
+		<real>0.589444444444</real>
+	</dict>
+	<key>LFOH</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport du Havre - Octeville</string>
+		<key>Lat</key>
+		<real>49.5338888889</real>
+		<key>Lng</key>
+		<real>0.0880555555556</real>
+	</dict>
+	<key>LFOI</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Abbeville</string>
+		<key>Lat</key>
+		<real>50.1430555556</real>
+		<key>Lng</key>
+		<real>1.8325</real>
+	</dict>
+	<key>LFOJ</key>
+	<dict>
+		<key>Name</key>
+		<string> Base aerienne 123 d&apos;Orleans - Bricy</string>
+		<key>Lat</key>
+		<real>47.9877777778</real>
+		<key>Lng</key>
+		<real>1.76055555556</real>
+	</dict>
+	<key>LFOK</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Paris Vatry</string>
+		<key>Lat</key>
+		<real>48.7733333333</real>
+		<key>Lng</key>
+		<real>4.20611111111</real>
+	</dict>
+	<key>LFOL</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de L&apos;Aigle - Saint-Michel</string>
+		<key>Lat</key>
+		<real>48.7597222222</real>
+		<key>Lng</key>
+		<real>0.659166666667</real>
+	</dict>
+	<key>LFOM</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Lessay</string>
+		<key>Lat</key>
+		<real>49.2030555556</real>
+		<key>Lng</key>
+		<real>1.50666666667</real>
+	</dict>
+	<key>LFON</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Dreux Vernouillet</string>
+		<key>Lat</key>
+		<real>48.7066666667</real>
+		<key>Lng</key>
+		<real>1.36277777778</real>
+	</dict>
+	<key>LFOO</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport Les sables - Talmont</string>
+		<key>Lat</key>
+		<real>46.4769444444</real>
+		<key>Lng</key>
+		<real>1.72277777778</real>
+	</dict>
+	<key>LFOP</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport Rouen Vallee de Seine</string>
+		<key>Lat</key>
+		<real>49.3908333333</real>
+		<key>Lng</key>
+		<real>1.18388888889</real>
+	</dict>
+	<key>LFOQ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Blois - Le Breuil</string>
+		<key>Lat</key>
+		<real>47.6797222222</real>
+		<key>Lng</key>
+		<real>1.20583333333</real>
+	</dict>
+	<key>LFOR</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Chartres - Champhol</string>
+		<key>Lat</key>
+		<real>48.4588888889</real>
+		<key>Lng</key>
+		<real>1.52388888889</real>
+	</dict>
+	<key>LFOS</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Saint-Valery - Vittefleur</string>
+		<key>Lat</key>
+		<real>49.8361111111</real>
+		<key>Lng</key>
+		<real>0.655</real>
+	</dict>
+	<key>LFOT</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Tours Val de Loire</string>
+		<key>Lat</key>
+		<real>47.4319444444</real>
+		<key>Lng</key>
+		<real>0.723055555556</real>
+	</dict>
+	<key>LFOU</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Cholet Le Pontreau</string>
+		<key>Lat</key>
+		<real>47.0819444444</real>
+		<key>Lng</key>
+		<real>0.877222222222</real>
+	</dict>
+	<key>LFOV</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Laval - Entrammes</string>
+		<key>Lat</key>
+		<real>48.0322222222</real>
+		<key>Lng</key>
+		<real>0.742777777778</real>
+	</dict>
+	<key>LFOW</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Saint-Quentin - Roupy</string>
+		<key>Lat</key>
+		<real>49.8169444444</real>
+		<key>Lng</key>
+		<real>3.20666666667</real>
+	</dict>
+	<key>LFOX</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;etampes Mondesir</string>
+		<key>Lat</key>
+		<real>48.3819444444</real>
+		<key>Lng</key>
+		<real>2.07527777778</real>
+	</dict>
+	<key>LFOY</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport du Havre - Saint-Romain</string>
+		<key>Lat</key>
+		<real>49.5438888889</real>
+		<key>Lng</key>
+		<real>0.359722222222</real>
+	</dict>
+	<key>LFOZ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Orleans - Saint-Denis de l&apos;Hotel</string>
+		<key>Lat</key>
+		<real>47.8975</real>
+		<key>Lng</key>
+		<real>2.16416666667</real>
+	</dict>
+	<key>LFPA</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Persan - Beaumont</string>
+		<key>Lat</key>
+		<real>49.1658333333</real>
+		<key>Lng</key>
+		<real>2.31305555556</real>
+	</dict>
+	<key>LFPB</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport Paris - Le Bourget</string>
+		<key>Lat</key>
+		<real>48.9694444444</real>
+		<key>Lng</key>
+		<real>2.44138888889</real>
+	</dict>
+	<key>LFPC</key>
+	<dict>
+		<key>Name</key>
+		<string> Base aerienne 110 de Creil</string>
+		<key>Lat</key>
+		<real>49.2508333333</real>
+		<key>Lng</key>
+		<real>2.52166666667</real>
+	</dict>
+	<key>LFPD</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Bernay - Saint-Martin</string>
+		<key>Lat</key>
+		<real>49.1027777778</real>
+		<key>Lng</key>
+		<real>0.5666666666670001</real>
+	</dict>
+	<key>LFPE</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Meaux - Esbly</string>
+		<key>Lat</key>
+		<real>48.9277777778</real>
+		<key>Lng</key>
+		<real>2.83527777778</real>
+	</dict>
+	<key>LFPF</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Beynes - Thiverval</string>
+		<key>Lat</key>
+		<real>48.8436111111</real>
+		<key>Lng</key>
+		<real>1.90888888889</real>
+	</dict>
+	<key>LFPG</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Paris Charles de Gaulle</string>
+		<key>Lat</key>
+		<real>49.0097222222</real>
+		<key>Lng</key>
+		<real>2.54777777778</real>
+	</dict>
+	<key>LFPH</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Chelles le Pin</string>
+		<key>Lat</key>
+		<real>48.8977777778</real>
+		<key>Lng</key>
+		<real>2.6075</real>
+	</dict>
+	<key>LFPI</key>
+	<dict>
+		<key>Name</key>
+		<string> Heliport de Paris - Issy-les-Moulineaux</string>
+		<key>Lat</key>
+		<real>48.8333333333</real>
+		<key>Lng</key>
+		<real>2.27277777778</real>
+	</dict>
+	<key>LFPK</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Coulommiers - Voisins</string>
+		<key>Lat</key>
+		<real>48.8377777778</real>
+		<key>Lng</key>
+		<real>3.01527777778</real>
+	</dict>
+	<key>LFPL</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Lognes - emerainville</string>
+		<key>Lat</key>
+		<real>48.8230555556</real>
+		<key>Lng</key>
+		<real>2.62388888889</real>
+	</dict>
+	<key>LFPM</key>
+	<dict>
+		<key>Name</key>
+		<string> Base aerienne de Melun - Villaroche</string>
+		<key>Lat</key>
+		<real>48.6052777778</real>
+		<key>Lng</key>
+		<real>2.67083333333</real>
+	</dict>
+	<key>LFPN</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Toussus le Noble</string>
+		<key>Lat</key>
+		<real>48.7497222222</real>
+		<key>Lng</key>
+		<real>2.11111111111</real>
+	</dict>
+	<key>LFPO</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport Paris - Orly</string>
+		<key>Lat</key>
+		<real>48.7233333333</real>
+		<key>Lng</key>
+		<real>2.37944444444</real>
+	</dict>
+	<key>LFPP</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport du Plessis - Belleville</string>
+		<key>Lat</key>
+		<real>49.11</real>
+		<key>Lng</key>
+		<real>2.73805555556</real>
+	</dict>
+	<key>LFPQ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Fontenay - Tresigny</string>
+		<key>Lat</key>
+		<real>48.7072222222</real>
+		<key>Lng</key>
+		<real>2.90444444444</real>
+	</dict>
+	<key>LFPT</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Pontoise - Cormeilles-en-Vexin</string>
+		<key>Lat</key>
+		<real>49.0966666667</real>
+		<key>Lng</key>
+		<real>2.04083333333</real>
+	</dict>
+	<key>LFPU</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Moret - episy</string>
+		<key>Lat</key>
+		<real>48.3419444444</real>
+		<key>Lng</key>
+		<real>2.79944444444</real>
+	</dict>
+	<key>LFPV</key>
+	<dict>
+		<key>Name</key>
+		<string> Base aerienne 107 de Velizy Villacoublay</string>
+		<key>Lat</key>
+		<real>48.7741666667</real>
+		<key>Lng</key>
+		<real>2.19166666667</real>
+	</dict>
+	<key>LFPX</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Chavenay - Villepreux</string>
+		<key>Lat</key>
+		<real>48.8436111111</real>
+		<key>Lng</key>
+		<real>1.98222222222</real>
+	</dict>
+	<key>LFPY</key>
+	<dict>
+		<key>Name</key>
+		<string> Base aerienne 217 de Bretigny sur Orge</string>
+		<key>Lat</key>
+		<real>48.5961111111</real>
+		<key>Lng</key>
+		<real>2.33222222222</real>
+	</dict>
+	<key>LFPZ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Saint-Cyr l&apos;ecole</string>
+		<key>Lat</key>
+		<real>48.8113888889</real>
+		<key>Lng</key>
+		<real>2.07472222222</real>
+	</dict>
+	<key>LFQA</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Reims - Prunay</string>
+		<key>Lat</key>
+		<real>49.2086111111</real>
+		<key>Lng</key>
+		<real>4.15666666667</real>
+	</dict>
+	<key>LFQB</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Troyes - Barberey</string>
+		<key>Lat</key>
+		<real>48.3216666667</real>
+		<key>Lng</key>
+		<real>4.01666666667</real>
+	</dict>
+	<key>LFQC</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Luneville - Croismare</string>
+		<key>Lat</key>
+		<real>48.5947222222</real>
+		<key>Lng</key>
+		<real>6.54333333333</real>
+	</dict>
+	<key>LFQD</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Arras - Roclincourt</string>
+		<key>Lat</key>
+		<real>50.3247222222</real>
+		<key>Lng</key>
+		<real>2.80416666667</real>
+	</dict>
+	<key>LFQE</key>
+	<dict>
+		<key>Name</key>
+		<string> Base aerienne d&apos;etain - Rouvres</string>
+		<key>Lat</key>
+		<real>49.2291666667</real>
+		<key>Lng</key>
+		<real>5.68027777778</real>
+	</dict>
+	<key>LFQF</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;Autun Bellevue</string>
+		<key>Lat</key>
+		<real>46.9725</real>
+		<key>Lng</key>
+		<real>4.26222222222</real>
+	</dict>
+	<key>LFQG</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Nevers - Fourchambault</string>
+		<key>Lat</key>
+		<real>47.0036111111</real>
+		<key>Lng</key>
+		<real>3.11083333333</real>
+	</dict>
+	<key>LFQH</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Chatillon Sur Seine</string>
+		<key>Lat</key>
+		<real>47.8463888889</real>
+		<key>Lng</key>
+		<real>4.58055555556</real>
+	</dict>
+	<key>LFQI</key>
+	<dict>
+		<key>Name</key>
+		<string> Base aerienne 103 de Cambrai - epinoy</string>
+		<key>Lat</key>
+		<real>50.2188888889</real>
+		<key>Lng</key>
+		<real>3.15194444444</real>
+	</dict>
+	<key>LFQJ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Maubeuge - elesmes</string>
+		<key>Lat</key>
+		<real>50.3091666667</real>
+		<key>Lng</key>
+		<real>4.03138888889</real>
+	</dict>
+	<key>LFQK</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Chalons - ecury-sur-Coole</string>
+		<key>Lat</key>
+		<real>48.9061111111</real>
+		<key>Lng</key>
+		<real>4.35416666667</real>
+	</dict>
+	<key>LFQL</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Lens - Benifontaine</string>
+		<key>Lat</key>
+		<real>50.4672222222</real>
+		<key>Lng</key>
+		<real>2.82194444444</real>
+	</dict>
+	<key>LFQM</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Besancon - La Veze</string>
+		<key>Lat</key>
+		<real>47.2052777778</real>
+		<key>Lng</key>
+		<real>6.08055555556</real>
+	</dict>
+	<key>LFQN</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Saint-Omer - Wizernes</string>
+		<key>Lat</key>
+		<real>50.7294444444</real>
+		<key>Lng</key>
+		<real>2.23583333333</real>
+	</dict>
+	<key>LFQO</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Lille - Marcq-en-Baroeul</string>
+		<key>Lat</key>
+		<real>50.6880555556</real>
+		<key>Lng</key>
+		<real>3.07666666667</real>
+	</dict>
+	<key>LFQP</key>
+	<dict>
+		<key>Name</key>
+		<string> Base aerienne de Phalsbourg - Bourscheid</string>
+		<key>Lat</key>
+		<real>48.7727777778</real>
+		<key>Lng</key>
+		<real>7.215</real>
+	</dict>
+	<key>LFQQ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Lille - Lesquin</string>
+		<key>Lat</key>
+		<real>50.5633333333</real>
+		<key>Lng</key>
+		<real>3.08694444444</real>
+	</dict>
+	<key>LFQR</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Romilly sur Seine</string>
+		<key>Lat</key>
+		<real>0</real>
+		<key>Lng</key>
+		<real>0</real>
+	</dict>
+	<key>LFQS</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Vitry en Artois</string>
+		<key>Lat</key>
+		<real>50.3383333333</real>
+		<key>Lng</key>
+		<real>2.99333333333</real>
+	</dict>
+	<key>LFQT</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Merville - Calonne</string>
+		<key>Lat</key>
+		<real>50.6166666667</real>
+		<key>Lng</key>
+		<real>2.64</real>
+	</dict>
+	<key>LFQU</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Sarre Union</string>
+		<key>Lat</key>
+		<real>48.9513888889</real>
+		<key>Lng</key>
+		<real>7.07777777778</real>
+	</dict>
+	<key>LFQV</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Charleville-Mezieres - Belval</string>
+		<key>Lat</key>
+		<real>49.7858333333</real>
+		<key>Lng</key>
+		<real>4.64416666667</real>
+	</dict>
+	<key>LFQW</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Vesoul - Frotey</string>
+		<key>Lat</key>
+		<real>47.6394444444</real>
+		<key>Lng</key>
+		<real>6.20527777778</real>
+	</dict>
+	<key>LFQX</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Juvancourt</string>
+		<key>Lat</key>
+		<real>48.115</real>
+		<key>Lng</key>
+		<real>4.82083333333</real>
+	</dict>
+	<key>LFQY</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Saverne - Steinbourg</string>
+		<key>Lat</key>
+		<real>48.7541666667</real>
+		<key>Lng</key>
+		<real>7.42638888889</real>
+	</dict>
+	<key>LFQZ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Dieuze - Gueblange</string>
+		<key>Lat</key>
+		<real>48.7752777778</real>
+		<key>Lng</key>
+		<real>6.71527777778</real>
+	</dict>
+	<key>LFRA</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome d&apos;Angers - Avrille</string>
+		<key>Lat</key>
+		<real>0</real>
+		<key>Lng</key>
+		<real>0</real>
+	</dict>
+	<key>LFRB</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Brest Bretagne</string>
+		<key>Lat</key>
+		<real>48.4472222222</real>
+		<key>Lng</key>
+		<real>4.42166666667</real>
+	</dict>
+	<key>LFRC</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Cherbourg - Maupertus</string>
+		<key>Lat</key>
+		<real>49.6508333333</real>
+		<key>Lng</key>
+		<real>1.47527777778</real>
+	</dict>
+	<key>LFRD</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Dinard Pleurtuit Saint-Malo</string>
+		<key>Lat</key>
+		<real>48.5877777778</real>
+		<key>Lng</key>
+		<real>2.08</real>
+	</dict>
+	<key>LFRE</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de La Baule Escoublac</string>
+		<key>Lat</key>
+		<real>47.2894444444</real>
+		<key>Lng</key>
+		<real>2.34638888889</real>
+	</dict>
+	<key>LFRF</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Granville Mont Saint-Michel</string>
+		<key>Lat</key>
+		<real>48.8827777778</real>
+		<key>Lng</key>
+		<real>1.56388888889</real>
+	</dict>
+	<key>LFRG</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Deauville - Saint-Gatien</string>
+		<key>Lat</key>
+		<real>49.3633333333</real>
+		<key>Lng</key>
+		<real>0.16</real>
+	</dict>
+	<key>LFRH</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Lorient Bretagne Sud</string>
+		<key>Lat</key>
+		<real>47.7605555556</real>
+		<key>Lng</key>
+		<real>3.44</real>
+	</dict>
+	<key>LFRI</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de La Roche-sur-Yon - Les Ajoncs</string>
+		<key>Lat</key>
+		<real>46.7025</real>
+		<key>Lng</key>
+		<real>1.38166666667</real>
+	</dict>
+	<key>LFRJ</key>
+	<dict>
+		<key>Name</key>
+		<string> Base d&apos;aeronautique navale de Landivisiau</string>
+		<key>Lat</key>
+		<real>48.53</real>
+		<key>Lng</key>
+		<real>4.15166666667</real>
+	</dict>
+	<key>LFRK</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Caen - Carpiquet</string>
+		<key>Lat</key>
+		<real>49.1733333333</real>
+		<key>Lng</key>
+		<real>-0.45</real>
+	</dict>
+	<key>LFRL</key>
+	<dict>
+		<key>Name</key>
+		<string> Base d&apos;aeronautique navale de Lanveoc - Poulmic</string>
+		<key>Lat</key>
+		<real>48.2816666667</real>
+		<key>Lng</key>
+		<real>4.44583333333</real>
+	</dict>
+	<key>LFRM</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport du Mans - Arnage</string>
+		<key>Lat</key>
+		<real>47.9486111111</real>
+		<key>Lng</key>
+		<real>0.201666666667</real>
+	</dict>
+	<key>LFRN</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Rennes - Saint-Jacques</string>
+		<key>Lat</key>
+		<real>48.0719444444</real>
+		<key>Lng</key>
+		<real>1.73222222222</real>
+	</dict>
+	<key>LFRO</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Lannion</string>
+		<key>Lat</key>
+		<real>48.755</real>
+		<key>Lng</key>
+		<real>3.47444444444</real>
+	</dict>
+	<key>LFRP</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Ploermel - Loyat</string>
+		<key>Lat</key>
+		<real>48.0027777778</real>
+		<key>Lng</key>
+		<real>2.37722222222</real>
+	</dict>
+	<key>LFRQ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Quimper Cornouaille</string>
+		<key>Lat</key>
+		<real>47.975</real>
+		<key>Lng</key>
+		<real>4.16777777778</real>
+	</dict>
+	<key>LFRS</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport Nantes Atlantique</string>
+		<key>Lat</key>
+		<real>47.1569444444</real>
+		<key>Lng</key>
+		<real>1.60777777778</real>
+	</dict>
+	<key>LFRT</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Saint-Brieuc Armor</string>
+		<key>Lat</key>
+		<real>48.5375</real>
+		<key>Lng</key>
+		<real>2.85666666667</real>
+	</dict>
+	<key>LFRU</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Morlaix Ploujean</string>
+		<key>Lat</key>
+		<real>48.6008333333</real>
+		<key>Lng</key>
+		<real>3.81666666667</real>
+	</dict>
+	<key>LFRV</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Vannes - Meucon</string>
+		<key>Lat</key>
+		<real>47.7191666667</real>
+		<key>Lng</key>
+		<real>2.72333333333</real>
+	</dict>
+	<key>LFRW</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome d&apos;Avranches - Le Val Saint-Pere</string>
+		<key>Lat</key>
+		<real>48.6616666667</real>
+		<key>Lng</key>
+		<real>1.40444444444</real>
+	</dict>
+	<key>LFRZ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Saint-Nazaire - Montoir</string>
+		<key>Lat</key>
+		<real>47.3105555556</real>
+		<key>Lng</key>
+		<real>2.15666666667</real>
+	</dict>
+	<key>LFSA</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Besancon - Thise</string>
+		<key>Lat</key>
+		<real>47.2747222222</real>
+		<key>Lng</key>
+		<real>6.08416666667</real>
+	</dict>
+	<key>LFSB</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport international Basel Mulhouse Freiburg</string>
+		<key>Lat</key>
+		<real>47.59</real>
+		<key>Lng</key>
+		<real>7.52916666667</real>
+	</dict>
+	<key>LFSD</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Dijon Bourgogne - Longvic</string>
+		<key>Lat</key>
+		<real>47.2658333333</real>
+		<key>Lng</key>
+		<real>5.095</real>
+	</dict>
+	<key>LFSE</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome Epinal - Dogneville</string>
+		<key>Lat</key>
+		<real>48.2119444444</real>
+		<key>Lng</key>
+		<real>6.44916666667</real>
+	</dict>
+	<key>LFSF</key>
+	<dict>
+		<key>Name</key>
+		<string> Base aerienne 128 de Metz Frescaty</string>
+		<key>Lat</key>
+		<real>49.0763888889</real>
+		<key>Lng</key>
+		<real>6.13388888889</real>
+	</dict>
+	<key>LFSG</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;epinal - Mirecourt</string>
+		<key>Lat</key>
+		<real>48.325</real>
+		<key>Lng</key>
+		<real>6.06666666667</real>
+	</dict>
+	<key>LFSH</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome d&apos;Haguenau</string>
+		<key>Lat</key>
+		<real>48.7977777778</real>
+		<key>Lng</key>
+		<real>7.82027777778</real>
+	</dict>
+	<key>LFSI</key>
+	<dict>
+		<key>Name</key>
+		<string> Base aerienne 113 de Saint-Dizier - Robinson</string>
+		<key>Lat</key>
+		<real>48.6333333333</real>
+		<key>Lng</key>
+		<real>4.90805555556</real>
+	</dict>
+	<key>LFSJ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Sedan - Douzy</string>
+		<key>Lat</key>
+		<real>49.6597222222</real>
+		<key>Lng</key>
+		<real>5.03777777778</real>
+	</dict>
+	<key>LFSK</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Vitry-le-Francois - Vauclerc</string>
+		<key>Lat</key>
+		<real>48.7033333333</real>
+		<key>Lng</key>
+		<real>4.68444444444</real>
+	</dict>
+	<key>LFSL</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Brive Vallee de la Dordogne</string>
+		<key>Lat</key>
+		<real>45.0397222222</real>
+		<key>Lng</key>
+		<real>1.48555555556</real>
+	</dict>
+	<key>LFSM</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Montbeliard - Courcelles</string>
+		<key>Lat</key>
+		<real>47.4866666667</real>
+		<key>Lng</key>
+		<real>6.79138888889</real>
+	</dict>
+	<key>LFSN</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Nancy - Essey</string>
+		<key>Lat</key>
+		<real>48.6922222222</real>
+		<key>Lng</key>
+		<real>6.22611111111</real>
+	</dict>
+	<key>LFSO</key>
+	<dict>
+		<key>Name</key>
+		<string> Base aerienne 133 de Nancy - Ochey</string>
+		<key>Lat</key>
+		<real>48.5833333333</real>
+		<key>Lng</key>
+		<real>5.955</real>
+	</dict>
+	<key>LFSP</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Pontarlier</string>
+		<key>Lat</key>
+		<real>46.9094444444</real>
+		<key>Lng</key>
+		<real>6.33</real>
+	</dict>
+	<key>LFSR</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Reims Champagne</string>
+		<key>Lat</key>
+		<real>0</real>
+		<key>Lng</key>
+		<real>0</real>
+	</dict>
+	<key>LFST</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Strasbourg Entzheim</string>
+		<key>Lat</key>
+		<real>48.5405555556</real>
+		<key>Lng</key>
+		<real>7.63277777778</real>
+	</dict>
+	<key>LFSU</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Langres - Rolampont</string>
+		<key>Lat</key>
+		<real>47.9655555556</real>
+		<key>Lng</key>
+		<real>5.295</real>
+	</dict>
+	<key>LFSV</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Pont Saint-Vincent</string>
+		<key>Lat</key>
+		<real>48.6</real>
+		<key>Lng</key>
+		<real>6.04972222222</real>
+	</dict>
+	<key>LFSW</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport d&apos;epernay - Plivot</string>
+		<key>Lat</key>
+		<real>49.0052777778</real>
+		<key>Lng</key>
+		<real>4.08694444444</real>
+	</dict>
+	<key>LFSX</key>
+	<dict>
+		<key>Name</key>
+		<string> Base aerienne 116 de Luxeuil - Saint-Sauveur</string>
+		<key>Lat</key>
+		<real>47.7861111111</real>
+		<key>Lng</key>
+		<real>6.36444444444</real>
+	</dict>
+	<key>LFSZ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Vittel Champ de courses</string>
+		<key>Lat</key>
+		<real>0</real>
+		<key>Lng</key>
+		<real>0</real>
+	</dict>
+	<key>LFTF</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Cuers - Pierrefeu</string>
+		<key>Lat</key>
+		<real>43.2475</real>
+		<key>Lng</key>
+		<real>6.12722222222</real>
+	</dict>
+	<key>LFTH</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Toulon - Hyeres - Le Palyvestre</string>
+		<key>Lat</key>
+		<real>43.0972222222</real>
+		<key>Lng</key>
+		<real>6.14611111111</real>
+	</dict>
+	<key>LFTL</key>
+	<dict>
+		<key>Name</key>
+		<string> Heliport de Cannes - Quai du large</string>
+		<key>Lat</key>
+		<real>0</real>
+		<key>Lng</key>
+		<real>0</real>
+	</dict>
+	<key>LFTM</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Serres - La Batie-Montsaleon</string>
+		<key>Lat</key>
+		<real>44.4583333333</real>
+		<key>Lng</key>
+		<real>5.72833333333</real>
+	</dict>
+	<key>LFTN</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de La Grand&apos;Combe</string>
+		<key>Lat</key>
+		<real>44.2444444444</real>
+		<key>Lng</key>
+		<real>4.01222222222</real>
+	</dict>
+	<key>LFTP</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Puimoisson</string>
+		<key>Lat</key>
+		<real>43.8688888889</real>
+		<key>Lng</key>
+		<real>6.16277777778</real>
+	</dict>
+	<key>LFTQ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Chateaubriant - Pouance</string>
+		<key>Lat</key>
+		<real>47.7405555556</real>
+		<key>Lng</key>
+		<real>1.18805555556</real>
+	</dict>
+	<key>LFTW</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de NImes - Garons</string>
+		<key>Lat</key>
+		<real>43.7575</real>
+		<key>Lng</key>
+		<real>4.41638888889</real>
+	</dict>
+	<key>LFTZ</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de La Mole - Saint-Tropez</string>
+		<key>Lat</key>
+		<real>43.2063888889</real>
+		<key>Lng</key>
+		<real>6.4825</real>
+	</dict>
+	<key>LFXA</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome d&apos;Amberieu</string>
+		<key>Lat</key>
+		<real>45.9797222222</real>
+		<key>Lng</key>
+		<real>5.33777777778</real>
+	</dict>
+	<key>LFXB</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Saintes - Thenac</string>
+		<key>Lat</key>
+		<real>45.7019444444</real>
+		<key>Lng</key>
+		<real>0.636111111111</real>
+	</dict>
+	<key>LFXI</key>
+	<dict>
+		<key>Name</key>
+		<string> Base aerienne 200 Apt - Saint-Christol</string>
+		<key>Lat</key>
+		<real>0</real>
+		<key>Lng</key>
+		<real>0</real>
+	</dict>
+	<key>LFXM</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Mourmelon</string>
+		<key>Lat</key>
+		<real>0</real>
+		<key>Lng</key>
+		<real>0</real>
+	</dict>
+	<key>LFXU</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport des Mureaux</string>
+		<key>Lat</key>
+		<real>48.9983333333</real>
+		<key>Lng</key>
+		<real>1.94277777778</real>
+	</dict>
+	<key>LFYD</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Damblain</string>
+		<key>Lat</key>
+		<real>48.0833333333</real>
+		<key>Lng</key>
+		<real>5.66666666667</real>
+	</dict>
+	<key>LFYG</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Cambrai - Niergnies</string>
+		<key>Lat</key>
+		<real>50.1425</real>
+		<key>Lng</key>
+		<real>3.265</real>
+	</dict>
+	<key>LFYH</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Broyes les Pesmes</string>
+		<key>Lat</key>
+		<real>0</real>
+		<key>Lng</key>
+		<real>0</real>
+	</dict>
+	<key>LFYM</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Marigny Le Grand</string>
+		<key>Lat</key>
+		<real>0</real>
+		<key>Lng</key>
+		<real>0</real>
+	</dict>
+	<key>LFYR</key>
+	<dict>
+		<key>Name</key>
+		<string> Aeroport de Romorantin - Pruniers</string>
+		<key>Lat</key>
+		<real>47.3208333333</real>
+		<key>Lng</key>
+		<real>1.68888888889</real>
+	</dict>
+	<key>LFYS</key>
+	<dict>
+		<key>Name</key>
+		<string> Aerodrome de Sainte-Leocadie</string>
+		<key>Lat</key>
+		<real>42.4466666667</real>
+		<key>Lng</key>
+		<real>2.01027777778</real>
+	</dict>
+	<key>LFYT</key>
+	<dict>
+		<key>Name</key>
+		<string> Base aerienne de Saint-Simon - Clastres</string>
+		<key>Lat</key>
+		<real>0</real>
+		<key>Lng</key>
+		<real>0</real>
+	</dict>
+</dict>
+</plist>
