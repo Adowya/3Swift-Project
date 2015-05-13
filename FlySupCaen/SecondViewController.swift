@@ -36,7 +36,7 @@ class SecondViewController: UIViewController, UITableViewDelegate, UITableViewDa
     }
     
     //UITableViewDelegate
-    func tableView(tableView: UITableView!, commitEditingStyle editingStyle: UITableViewCellEditingStyle, forRowAtIndexPath indexPath: NSIndexPath!) {
+    func tableView(tableView: UITableView, commitEditingStyle editingStyle: UITableViewCellEditingStyle, forRowAtIndexPath indexPath: NSIndexPath) {
         
         if (editingStyle == UITableViewCellEditingStyle.Delete) {
             flyMgr.removeFly(indexPath.row)
@@ -48,16 +48,16 @@ class SecondViewController: UIViewController, UITableViewDelegate, UITableViewDa
         return flyMgr.flys.count
     }
     
-    func tableView(tableView: UITableView!, cellForRowAtIndexPath indexPath: NSIndexPath!) -> UITableViewCell! {
-        
-        let cell: UITableViewCell = UITableViewCell(style: UITableViewCellStyle.Subtitle, reuseIdentifier: "FlyList")
-        
-        cell.textLabel.text = flyMgr.flys[indexPath.row].departure
-        cell.detailTextLabel?.text = flyMgr.flys[indexPath.row].arrival
-        
-        return cell
-        
-    }
+//    func tableView(tableView: UITableView!, cellForRowAtIndexPath indexPath: NSIndexPath!) -> UITableViewCell! {
+//        
+//        let cell: UITableViewCell = UITableViewCell(style: UITableViewCellStyle.Subtitle, reuseIdentifier: "FlyList")
+//        
+//        cell.textLabel!.text = flyMgr.flys[indexPath.row].departure
+//        cell.detailTextLabel?.text = flyMgr.flys[indexPath.row].arrival
+//        
+//        return cell
+//        
+//    }
     
     
     

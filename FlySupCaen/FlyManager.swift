@@ -31,8 +31,8 @@ class flyManager: NSObject {
         for res:AnyObject in tempFlys{
             
             flys.append(Fly(
-                departure:res.valueForKey("departure")as String,
-                arrival:res.valueForKey("arrival") as String
+                departure:res.valueForKey("departure")as! String,
+                arrival:res.valueForKey("arrival") as! String
                 ))
         }
     }

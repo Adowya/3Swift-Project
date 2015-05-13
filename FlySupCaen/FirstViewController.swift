@@ -86,7 +86,7 @@ class FirstViewController: UIViewController, CLLocationManagerDelegate {
                 
                 self.TheTimer = NSTimer.scheduledTimerWithTimeInterval(1.0, target: self, selector: Selector("updateTimer"), userInfo: nil, repeats: true)
                 
-                self.LblDepTime?.text = NSString(format:"%@ - %02d/%02d/%02d - %02dh%02d", self.labeLocation, currentDate.day, currentDate.month, currentDate.year, currentDate.hour, currentDate.minute)
+                self.LblDepTime?.text = NSString(format:"%@ - %02d/%02d/%02d - %02dh%02d", self.labeLocation, currentDate.day, currentDate.month, currentDate.year, currentDate.hour, currentDate.minute) as String
                 
             }
             alert.addAction(cancelAction)
@@ -117,7 +117,7 @@ class FirstViewController: UIViewController, CLLocationManagerDelegate {
             //Arrival = Aeroport + date.now()
             let currentDate:CFGregorianDate = CFAbsoluteTimeGetGregorianDate(CFAbsoluteTimeGetCurrent(), CFTimeZoneCopySystem());
             
-            self.LblArrTime?.text = NSString(format:"%@ - %02d/%02d/%02d - %02dh%02d", self.labeLocation, currentDate.day, currentDate.month, currentDate.year, currentDate.hour, currentDate.minute)
+            self.LblArrTime?.text = NSString(format:"%@ - %02d/%02d/%02d - %02dh%02d", self.labeLocation, currentDate.day, currentDate.month, currentDate.year, currentDate.hour, currentDate.minute) as String
             
             //Duration
             self.LblDurration?.text = self.LblCounter?.text
@@ -152,7 +152,7 @@ class FirstViewController: UIViewController, CLLocationManagerDelegate {
             if let ocDictionary = dict as? NSDictionary {
                 var swiftDict : Dictionary<String,AnyObject!> = Dictionary<String,AnyObject!>()
                 for key : AnyObject in ocDictionary.allKeys{
-                    let stringKey : String = key as String
+                    let stringKey : String = key as! String
                     
                     //Table code
                     ArrayCode.addObject(stringKey)
@@ -203,7 +203,7 @@ class FirstViewController: UIViewController, CLLocationManagerDelegate {
                 let codeAir : AnyObject = ArrayCode.objectAtIndex(indexOfmin)
                 
                 //Send this value to the Label LblDepTime/LblArrTime
-                self.labeLocation = codeAir as String
+                self.labeLocation = codeAir as! String
                     
                 println("CODE = \(codeAir)")
                 println("Find this 'CODE' in this console for find the Nearest Airport Info")
@@ -245,7 +245,7 @@ class FirstViewController: UIViewController, CLLocationManagerDelegate {
                 self.counterMin = 0
             }
         }
-        self.LblCounter?.text = NSString(format:"%i Hour %i Min %i Sec", self.counterHour, self.counterMin, self.counterSec++)
+        self.LblCounter?.text = NSString(format:"%i Hour %i Min %i Sec", self.counterHour, self.counterMin, self.counterSec++) as String
     }
 
     

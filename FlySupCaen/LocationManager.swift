@@ -7,7 +7,6 @@
 //
 
 import Foundation
-import UIkit
 import CoreLocation
 
 class LocationManager: NSObject , CLLocationManagerDelegate {
