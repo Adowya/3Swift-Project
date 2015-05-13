@@ -11,6 +11,8 @@ import CoreData
 import CoreLocation
 
 class FirstViewController: UIViewController, CLLocationManagerDelegate {
+
+
     
     var counterSec: Int = 0
     var counterMin: Int = 0
@@ -24,23 +26,23 @@ class FirstViewController: UIViewController, CLLocationManagerDelegate {
     var labeLocation: String = ""
 
     ////////////RealLocation///////////
-    var currentLocation = CLLocation()
+//    var currentLocation = CLLocation()
     ///////////////////////////////////
     
     //Fake location_Caen
-    //var currentLocation:CLLocation = CLLocation(latitude: 49.183333, longitude: -0.35)
+    var currentLocation:CLLocation = CLLocation(latitude: 49.183333, longitude: -0.35)
 
 
     
-    @IBOutlet var LblButton : UIButton
-    @IBOutlet var LblCounter : UILabel
-    @IBOutlet var LblDepTime : UILabel
-    @IBOutlet var LblArrTime : UILabel
-    @IBOutlet var LblDurration : UILabel
+    @IBOutlet var LblButton : UIButton?
+    @IBOutlet var LblCounter : UILabel?
+    @IBOutlet var LblDepTime : UILabel?
+    @IBOutlet var LblArrTime : UILabel?
+    @IBOutlet var LblDurration : UILabel?
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.view.backgroundColor = UIColor(patternImage: UIImage(named: "gradient5"))
+        self.view.backgroundColor = UIColor(patternImage: UIImage(named: "gradient5")!)
         var manager = CLLocationManager()
         manager.delegate = self
         manager.desiredAccuracy = kCLLocationAccuracyBest
@@ -73,18 +75,18 @@ class FirstViewController: UIViewController, CLLocationManagerDelegate {
                 self.counterSec = 0
                 self.counterMin = 0
                 self.counterHour = 0
-                self.LblDepTime.text = ""
-                self.LblArrTime.text = ""
-                self.LblDurration.text = ""
+                self.LblDepTime?.text = ""
+                self.LblArrTime?.text = ""
+                self.LblDurration?.text = ""
                 self.goButtonTouched = true
-                self.LblButton.setTitle("Stop", forState: UIControlState.Normal)
+                self.LblButton?.setTitle("Stop", forState: UIControlState.Normal)
                 
                 //Departure = date.now()
                 var currentDate:CFGregorianDate = CFAbsoluteTimeGetGregorianDate(CFAbsoluteTimeGetCurrent(), CFTimeZoneCopySystem());
                 
                 self.TheTimer = NSTimer.scheduledTimerWithTimeInterval(1.0, target: self, selector: Selector("updateTimer"), userInfo: nil, repeats: true)
                 
-                self.LblDepTime.text = NSString(format:"%@ - %02d/%02d/%02d - %02dh%02d", self.labeLocation, currentDate.day, currentDate.month, currentDate.year, currentDate.hour, currentDate.minute)
+                self.LblDepTime?.text = NSString(format:"%@ - %02d/%02d/%02d - %02dh%02d", self.labeLocation, currentDate.day, currentDate.month, currentDate.year, currentDate.hour, currentDate.minute)
                 
             }
             alert.addAction(cancelAction)
@@ -110,19 +112,23 @@ class FirstViewController: UIViewController, CLLocationManagerDelegate {
             //Stop counter
             self.TheTimer.invalidate()
             //Change button
-            self.LblButton.setTitle("Start", forState: UIControlState.Normal)
+            self.LblButton?.setTitle("Start", forState: UIControlState.Normal)
             
             //Arrival = Aeroport + date.now()
             let currentDate:CFGregorianDate = CFAbsoluteTimeGetGregorianDate(CFAbsoluteTimeGetCurrent(), CFTimeZoneCopySystem());
             
-            self.LblArrTime.text = NSString(format:"%@ - %02d/%02d/%02d - %02dh%02d", self.labeLocation, currentDate.day, currentDate.month, currentDate.year, currentDate.hour, currentDate.minute)
+            self.LblArrTime?.text = NSString(format:"%@ - %02d/%02d/%02d - %02dh%02d", self.labeLocation, currentDate.day, currentDate.month, currentDate.year, currentDate.hour, currentDate.minute)
             
             //Duration
-            self.LblDurration.text = self.LblCounter.text
+            self.LblDurration?.text = self.LblCounter?.text
             
             //Persist fly
-            var departure: String = self.LblDepTime.text
-            var arrival: String = self.LblArrTime.text+" - "+self.LblDurration.text
+            var departure: String = self.LblDepTime!.text!
+            var arrival: String = self.LblArrTime!.text!+" - "+self.LblDurration!.text!
+            
+            println("departure = \(departure)")
+            println("arrival = \(arrival)")
+            
             flyMgr.addFly(departure, arrival: arrival)
             
         }
@@ -135,11 +141,14 @@ class FirstViewController: UIViewController, CLLocationManagerDelegate {
     func getAirportLocation(){
         let path = NSBundle.mainBundle().pathForResource("airports", ofType: "plist")
         var anError : NSError?
-        let data : NSData! = NSData.dataWithContentsOfFile(path, options: NSDataReadingOptions.DataReadingUncached, error: &anError)
-        let dict : AnyObject! = NSPropertyListSerialization.propertyListWithData(data, options: 0,format: nil, error: &anError)
+        
+        
+        let data = NSData(contentsOfFile: path!, options: NSDataReadingOptions.DataReadingUncached, error: &anError)
+//        let data : NSData! = NSData.dataWithContentsOfFile(path!, options: NSDataReadingOptions.DataReadingUncached, error: &anError)
+        let dict : AnyObject! = NSPropertyListSerialization.propertyListWithData(data!, options: 0,format: nil, error: &anError)
 
         var ArrayCode = NSMutableArray()
-        if dict{
+        if (dict != nil){
             if let ocDictionary = dict as? NSDictionary {
                 var swiftDict : Dictionary<String,AnyObject!> = Dictionary<String,AnyObject!>()
                 for key : AnyObject in ocDictionary.allKeys{
@@ -153,18 +162,21 @@ class FirstViewController: UIViewController, CLLocationManagerDelegate {
 
                     if let keyValue : AnyObject = ocDictionary.valueForKey(stringKey){
                         swiftDict[stringKey] = keyValue
-                        var airLat : CLLocationDegrees = keyValue.valueForKey("Lat").doubleValue
-                        var airLng : CLLocationDegrees = keyValue.valueForKey("Lng").doubleValue
-                        var airName : AnyObject = keyValue.valueForKey("Name")
+                        var airLat : CLLocationDegrees? = keyValue.valueForKey("Lat")?.doubleValue
+                        var airLng : CLLocationDegrees? = keyValue.valueForKey("Lng")?.doubleValue
+                        var airName : AnyObject = keyValue.valueForKey("Name")!
                         println("Airport Name : \(airName)")
 
                         //AirPort Location Object
-                        var airPortLocation:CLLocation = CLLocation(latitude: airLat, longitude: airLng)
+                        var airPortLocation:CLLocation = CLLocation(latitude: airLat!, longitude: airLng!)
 
                         //Distance between each Airport with UserLocation
                         var distance:CLLocationDistance = airPortLocation.distanceFromLocation(self.currentLocation)
+                        
+                        // var total = Int((distance as NSString).integerValue)
+                    
                         //Table distance
-                        distances.addObject(distance.bridgeToObjectiveC().integerValue)
+                        distances.addObject((distance as NSNumber).integerValue)
                         
                         println("AirPortLocation : \(airPortLocation)")
                         println("-----------------------------------")
@@ -177,7 +189,7 @@ class FirstViewController: UIViewController, CLLocationManagerDelegate {
                 }
                 
                 //Find min value of distance
-                let min : NSNumber = (distances as AnyObject).valueForKeyPath("@min.doubleValue").doubleValue
+                let min : NSNumber = (distances as AnyObject).valueForKeyPath("@min.doubleValue")!.doubleValue!
                 
                 println("-----------------------------------")
                 println("----------Nearest Airport----------")
@@ -200,7 +212,7 @@ class FirstViewController: UIViewController, CLLocationManagerDelegate {
                 //return nil
             }
         } else if let theError = anError {
-            println("Sorry, couldn't read the file \(path.lastPathComponent):\n\t"+theError.localizedDescription)
+            println("Sorry, couldn't read the file \(path?.lastPathComponent):\n\t"+theError.localizedDescription)
         }
         
     }
@@ -208,9 +220,7 @@ class FirstViewController: UIViewController, CLLocationManagerDelegate {
     //Location Manager
     func locationManager(manager:CLLocationManager,didUpdateToLocation newLocation:CLLocation,fromLocation oldLocation:CLLocation){
         
-        var currentLocation:CLLocation = newLocation
-        
-        if(currentLocation != nil){
+        if let currentLocation = newLocation as CLLocation? {
             
             var myLat:NSString = "\(currentLocation.coordinate.latitude)"
             var myLon:NSString = "\(currentLocation.coordinate.longitude)"
@@ -235,7 +245,7 @@ class FirstViewController: UIViewController, CLLocationManagerDelegate {
                 self.counterMin = 0
             }
         }
-        self.LblCounter.text = NSString(format:"%i Hour %i Min %i Sec", self.counterHour, self.counterMin, self.counterSec++)
+        self.LblCounter?.text = NSString(format:"%i Hour %i Min %i Sec", self.counterHour, self.counterMin, self.counterSec++)
     }
 
     

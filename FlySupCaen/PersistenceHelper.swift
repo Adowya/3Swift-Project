@@ -14,8 +14,8 @@ class PersistenceHelper: NSObject {
     var appDel: AppDelegate = (UIApplication.sharedApplication().delegate as AppDelegate)
     var context: NSManagedObjectContext;
     
-    init(){
-        context = appDel.managedObjectContext
+    override init(){
+        context = appDel.managedObjectContext!
     }
     
     func save(entity: String, parameters: Dictionary<String,String> )->Bool{
@@ -39,7 +39,7 @@ class PersistenceHelper: NSObject {
         
         
         
-        var results: NSArray = context.executeFetchRequest(request, error: nil)
+        var results: NSArray = context.executeFetchRequest(request, error: nil)!
         
         return results
         
@@ -52,7 +52,7 @@ class PersistenceHelper: NSObject {
         
         request.predicate = NSPredicate(format: "\(key) = %@", value)
         
-        var results: NSArray = context.executeFetchRequest(request, error: nil)
+        var results: NSArray = context.executeFetchRequest(request, error: nil)!
         
         if(results.count>0){
             

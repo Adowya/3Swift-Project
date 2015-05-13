@@ -17,7 +17,7 @@ class SecondViewController: UIViewController, UITableViewDelegate, UITableViewDa
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.view.backgroundColor = UIColor(patternImage: UIImage(named: "gradient8"))
+        self.view.backgroundColor = UIColor(patternImage: UIImage(named: "gradient8")!)
         // Do any additional setup after loading the view, typically from a nib.
     }
     
@@ -31,6 +31,10 @@ class SecondViewController: UIViewController, UITableViewDelegate, UITableViewDa
         tblFly.reloadData()
     }
     
+    func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
+        return UITableViewCell()
+    }
+    
     //UITableViewDelegate
     func tableView(tableView: UITableView!, commitEditingStyle editingStyle: UITableViewCellEditingStyle, forRowAtIndexPath indexPath: NSIndexPath!) {
         
@@ -40,7 +44,7 @@ class SecondViewController: UIViewController, UITableViewDelegate, UITableViewDa
         }
     }
     
-    func tableView(tableView: UITableView!, numberOfRowsInSection section: Int) -> Int {
+    func tableView(tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return flyMgr.flys.count
     }
     
@@ -48,8 +52,8 @@ class SecondViewController: UIViewController, UITableViewDelegate, UITableViewDa
         
         let cell: UITableViewCell = UITableViewCell(style: UITableViewCellStyle.Subtitle, reuseIdentifier: "FlyList")
         
-        cell.text = flyMgr.flys[indexPath.row].departure
-        cell.detailTextLabel.text = flyMgr.flys[indexPath.row].arrival
+        cell.textLabel.text = flyMgr.flys[indexPath.row].departure
+        cell.detailTextLabel?.text = flyMgr.flys[indexPath.row].arrival
         
         return cell
         

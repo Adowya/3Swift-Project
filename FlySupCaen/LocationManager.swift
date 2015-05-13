@@ -33,11 +33,11 @@ class LocationManager: NSObject , CLLocationManagerDelegate {
     }
     
     
-    override func `self`() -> LocationManager
+    func `Self`() -> LocationManager
     {
-        self.superclass()
+        self.superclass
         
-        if(self != nil)
+        if(self.superclass != nil)
         {
             locationManager =  CLLocationManager()
             locationManager.delegate = self
@@ -91,7 +91,7 @@ class LocationManager: NSObject , CLLocationManagerDelegate {
     
     
     
-    func locationManager(manager: CLLocationManager!, didUpdateLocations locations: AnyObject[]!)
+    func locationManager(manager: CLLocationManager!, didUpdateLocations locations: [AnyObject]!)
     {
         
     }
@@ -107,7 +107,7 @@ class LocationManager: NSObject , CLLocationManagerDelegate {
     {
         
     }
-    func locationManager(manager: CLLocationManager!, didRangeBeacons beacons: AnyObject[]!, inRegion region: CLBeaconRegion!)
+    func locationManager(manager: CLLocationManager!, didRangeBeacons beacons: [[AnyObject]],()!, inRegion region: CLBeaconRegion!)
     {
         
     }

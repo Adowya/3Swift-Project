@@ -20,11 +20,11 @@ struct Fly {
 
 class flyManager: NSObject {
     
-    var flys = Fly[]()
+    var flys = [Fly]()
     var persistenceHelper: PersistenceHelper = PersistenceHelper()
     
     
-    init(){
+    override init(){
         
         var tempFlys:NSArray = persistenceHelper.list("Fly")
         
