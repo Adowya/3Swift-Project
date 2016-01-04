@@ -1,14 +1,14 @@
-Swift Fly
-====================================
+# 3Swift Project
 
-It's my first application write on Swift
+#### Third year master degree
 
-###Preview: 
+In this project, you’ll write an iOS application. Flight Companion is an application that helps airplane pilots to keep track of their flights and their durations.
 
-<p align="center">
-  <img src="http://adowya.fr/img/swiftfly2.png" />
-  <img src="http://adowya.fr/img/swiftfly1.png" />
-</p>
+It’s possible to:
+
+- Start and finish a flight
+- Review past flights
+- Delete flights
 
 
 Features
@@ -39,3 +39,4 @@ FlySupCaen
 
 ```
 
+It's my first application write on Swift
